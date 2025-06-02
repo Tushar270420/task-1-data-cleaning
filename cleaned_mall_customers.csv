@@ -1,0 +1,581 @@
+ORDERNUMBER,QUANTITYORDERED,PRICEEACH,ORDERLINENUMBER,SALES,ORDERDATE,STATUS,QTR_ID,MONTH_ID,YEAR_ID,PRODUCTLINE,MSRP,PRODUCTCODE,CUSTOMERNAME,PHONE,ADDRESSLINE1,ADDRESSLINE2,CITY,STATE,POSTALCODE,COUNTRY,TERRITORY,CONTACTLASTNAME,CONTACTFIRSTNAME,DEALSIZE
+10223,37,100,1,3965.66,2/20/2004,Shipped,1,2,2004,Motorcycles,95,S10_1678,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Medium
+10237,23,100,7,2333.12,4/5/2004,Shipped,2,4,2004,Motorcycles,95,S10_1678,Vitachrome Inc.,2125551500,2678 Kingston Rd.,Suite 101,NYC,NY,10022,USA,NA,Frick,Michael,Small
+10361,20,72.55,13,1451,12/17/2004,Shipped,4,12,2004,Motorcycles,95,S10_1678,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Small
+10163,21,100,1,4860.24,10/20/2003,Shipped,4,10,2003,Classic Cars,214,S10_1949,Classic Legends Inc.,2125558493,5905 Pompton St.,Suite 750,NYC,NY,10022,USA,NA,Hernandez,Maria,Medium
+10270,21,100,9,4905.39,7/19/2004,Shipped,3,7,2004,Classic Cars,214,S10_1949,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Medium
+10347,30,100,1,3944.7,11/29/2004,Shipped,4,11,2004,Classic Cars,214,S10_1949,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Medium
+10391,24,100,4,2416.56,3/9/2005,Shipped,1,3,2005,Classic Cars,214,S10_1949,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Small
+10120,29,96.34,3,2793.86,4/29/2003,Shipped,2,4,2003,Motorcycles,118,S10_2016,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Small
+10223,47,100,4,5422.39,2/20/2004,Shipped,1,2,2004,Motorcycles,118,S10_2016,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Medium
+10361,26,51.15,8,1329.9,12/17/2004,Shipped,4,12,2004,Motorcycles,118,S10_2016,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Small
+10120,46,100,2,9264.86,4/29/2003,Shipped,2,4,2003,Motorcycles,193,S10_4698,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Large
+10223,49,100,3,9774.03,2/20/2004,Shipped,1,2,2004,Motorcycles,193,S10_4698,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Large
+10237,39,100,9,7023.9,4/5/2004,Shipped,2,4,2004,Motorcycles,193,S10_4698,Vitachrome Inc.,2125551500,2678 Kingston Rd.,Suite 101,NYC,NY,10022,USA,NA,Frick,Michael,Large
+10337,25,48.05,8,1201.25,11/21/2004,Shipped,4,11,2004,Classic Cars,136,S10_4757,Classic Legends Inc.,2125558493,5905 Pompton St.,Suite 750,NYC,NY,10022,USA,NA,Hernandez,Maria,Small
+10270,32,100,2,4302.08,7/19/2004,Shipped,3,7,2004,Classic Cars,147,S10_4962,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Medium
+10347,27,100,2,4428,11/29/2004,Shipped,4,11,2004,Classic Cars,147,S10_4962,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Medium
+10370,35,65.63,4,2297.05,1/20/2005,Shipped,1,1,2005,Classic Cars,147,S10_4962,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Small
+10391,37,46.9,7,1735.3,3/9/2005,Shipped,1,3,2005,Classic Cars,147,S10_4962,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Small
+10169,30,100,2,5019.9,11/4/2003,Shipped,4,11,2003,Classic Cars,194,S12_1099,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Medium
+10127,46,100,2,11279.2,6/3/2003,Shipped,2,6,2003,Classic Cars,207,S12_1108,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,NA,Young,Jeff,Large
+10270,28,100,6,4094.72,7/19/2004,Shipped,3,7,2004,Trucks and Buses,136,S12_1666,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Medium
+10347,29,100,3,3586.43,11/29/2004,Shipped,4,11,2004,Trucks and Buses,136,S12_1666,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Medium
+10370,49,100,8,8470.14,1/20/2005,Shipped,1,1,2005,Trucks and Buses,136,S12_1666,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Large
+10391,39,63.2,9,2464.8,3/9/2005,Shipped,1,3,2005,Trucks and Buses,136,S12_1666,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Small
+10169,35,100,13,4639.25,11/4/2003,Shipped,4,11,2003,Motorcycles,150,S12_2823,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Medium
+10237,32,100,6,4193.28,4/5/2004,Shipped,2,4,2004,Motorcycles,150,S12_2823,Vitachrome Inc.,2125551500,2678 Kingston Rd.,Suite 101,NYC,NY,10022,USA,NA,Frick,Michael,Medium
+10319,30,100,9,4111.8,11/3/2004,Shipped,4,11,2004,Motorcycles,150,S12_2823,Microscale Inc.,2125551957,5290 North Pendale Street,Suite 200,NYC,NY,10022,USA,NA,Kuo,Kee,Medium
+10127,46,100,3,7366.44,6/3/2003,Shipped,2,6,2003,Classic Cars,151,S12_3148,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,NA,Young,Jeff,Large
+10324,27,54.33,1,1466.91,11/5/2004,Shipped,4,11,2004,Classic Cars,151,S12_3148,Vitachrome Inc.,2125551500,2678 Kingston Rd.,Suite 101,NYC,NY,10022,USA,NA,Frick,Michael,Small
+10127,42,100,1,8138.76,6/3/2003,Shipped,2,6,2003,Classic Cars,173,S12_3891,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,NA,Young,Jeff,Large
+10349,26,100,10,4408.56,12/1/2004,Shipped,4,12,2004,Classic Cars,173,S12_3891,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,NA,Young,Jeff,Medium
+10169,36,63.84,3,2298.24,11/4/2003,Shipped,4,11,2003,Classic Cars,79,S12_3990,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Small
+10115,46,100,5,5723.78,4/4/2003,Shipped,2,4,2003,Trucks and Buses,118,S12_4473,Classic Legends Inc.,2125558493,5905 Pompton St.,Suite 750,NYC,NY,10022,USA,NA,Hernandez,Maria,Medium
+10127,24,100,11,2559.6,6/3/2003,Shipped,2,6,2003,Trucks and Buses,118,S12_4473,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,NA,Young,Jeff,Small
+10324,26,58.38,7,1517.88,11/5/2004,Shipped,4,11,2004,Trucks and Buses,118,S12_4473,Vitachrome Inc.,2125551500,2678 Kingston Rd.,Suite 101,NYC,NY,10022,USA,NA,Frick,Michael,Small
+10349,48,100,9,5232.96,12/1/2004,Shipped,4,12,2004,Trucks and Buses,118,S12_4473,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,NA,Young,Jeff,Medium
+10270,43,96.84,8,4164.12,7/19/2004,Shipped,3,7,2004,Trucks and Buses,116,S18_1097,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Medium
+10347,42,49.6,5,2083.2,11/29/2004,Shipped,4,11,2004,Trucks and Buses,116,S18_1097,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Small
+10370,27,100,1,3911.49,1/20/2005,Shipped,1,1,2005,Trucks and Buses,116,S18_1097,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Medium
+10391,29,85.1,10,2467.9,3/9/2005,Shipped,1,3,2005,Trucks and Buses,116,S18_1097,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Small
+10148,23,100,13,2702.04,9/11/2003,Shipped,3,9,2003,Classic Cars,141,S18_1129,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Small
+10204,42,100,17,6182.4,12/2/2003,Shipped,4,12,2003,Classic Cars,141,S18_1129,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,NA,Young,Jeff,Medium
+10342,40,100,2,6454.4,11/24/2004,Shipped,4,11,2004,Classic Cars,141,S18_1129,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Medium
+10102,39,100,2,4808.31,1/10/2003,Shipped,1,1,2003,Vintage Cars,102,S18_1342,Vitachrome Inc.,2125551500,2678 Kingston Rd.,Suite 101,NYC,NY,10022,USA,NA,Frick,Michael,Medium
+10125,32,100,1,3254.72,5/21/2003,Shipped,2,5,2003,Vintage Cars,102,S18_1342,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Medium
+10139,31,100,7,3184.94,7/16/2003,Shipped,3,7,2003,Vintage Cars,102,S18_1342,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Medium
+10391,35,100,2,5548.9,3/9/2005,Shipped,1,3,2005,Vintage Cars,102,S18_1342,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Medium
+10102,41,50.14,1,2055.74,1/10/2003,Shipped,1,1,2003,Vintage Cars,53,S18_1367,Vitachrome Inc.,2125551500,2678 Kingston Rd.,Suite 101,NYC,NY,10022,USA,NA,Frick,Michael,Small
+10139,49,43.13,6,2113.37,7/16/2003,Shipped,3,7,2003,Vintage Cars,53,S18_1367,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Small
+10347,21,58.95,7,1237.95,11/29/2004,Shipped,4,11,2004,Vintage Cars,53,S18_1367,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Small
+10391,42,100,3,4998,3/9/2005,Shipped,1,3,2005,Vintage Cars,53,S18_1367,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Medium
+10148,47,100,9,5848.68,9/11/2003,Shipped,3,9,2003,Classic Cars,124,S18_1589,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Medium
+10204,40,100,13,4032,12/2/2003,Shipped,4,12,2003,Classic Cars,124,S18_1589,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,NA,Young,Jeff,Medium
+10204,33,100,4,5890.5,12/2/2003,Shipped,4,12,2003,Vintage Cars,170,S18_1749,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,NA,Young,Jeff,Medium
+10420,37,100,5,5283.6,5/29/2005,In Process,2,5,2005,Vintage Cars,170,S18_1749,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Medium
+10342,55,65.45,1,3599.75,11/24/2004,Shipped,4,11,2004,Classic Cars,77,S18_1889,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Medium
+10148,25,100,12,4232,9/11/2003,Shipped,3,9,2003,Classic Cars,142,S18_1984,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Medium
+10204,38,100,16,6432.64,12/2/2003,Shipped,4,12,2003,Classic Cars,142,S18_1984,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,NA,Young,Jeff,Medium
+10342,22,100,3,3160.74,11/24/2004,Shipped,4,11,2004,Classic Cars,142,S18_1984,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Medium
+10115,46,100,4,7381.16,4/4/2003,Shipped,2,4,2003,Classic Cars,163,S18_2238,Classic Legends Inc.,2125558493,5905 Pompton St.,Suite 750,NYC,NY,10022,USA,NA,Hernandez,Maria,Large
+10127,45,100,10,7146.9,6/3/2003,Shipped,2,6,2003,Classic Cars,163,S18_2238,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,NA,Young,Jeff,Large
+10324,47,100,8,7207.45,11/5/2004,Shipped,4,11,2004,Classic Cars,163,S18_2238,Vitachrome Inc.,2125551500,2678 Kingston Rd.,Suite 101,NYC,NY,10022,USA,NA,Frick,Michael,Large
+10349,38,100,8,6719.54,12/1/2004,Shipped,4,12,2004,Classic Cars,163,S18_2238,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,NA,Young,Jeff,Medium
+10204,23,71.44,3,1643.12,12/2/2003,Shipped,4,12,2003,Vintage Cars,60,S18_2248,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,NA,Young,Jeff,Small
+10420,36,63.57,4,2288.52,5/29/2005,In Process,2,5,2005,Vintage Cars,60,S18_2248,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Small
+10127,45,100,14,6295.95,6/3/2003,Shipped,2,6,2003,Trucks and Buses,122,S18_2319,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,NA,Young,Jeff,Medium
+10324,33,37.48,10,1236.84,11/5/2004,Shipped,4,11,2004,Trucks and Buses,122,S18_2319,Vitachrome Inc.,2125551500,2678 Kingston Rd.,Suite 101,NYC,NY,10022,USA,NA,Frick,Michael,Small
+10349,38,100,7,5223.48,12/1/2004,Shipped,4,12,2004,Trucks and Buses,122,S18_2319,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,NA,Young,Jeff,Medium
+10370,22,100,5,3949,1/20/2005,Shipped,1,1,2005,Trucks and Buses,122,S18_2319,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Medium
+10204,26,100,1,3206.32,12/2/2003,Shipped,4,12,2003,Vintage Cars,127,S18_2325,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,NA,Young,Jeff,Medium
+10420,45,100,2,4977,5/29/2005,In Process,2,5,2005,Vintage Cars,127,S18_2325,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Medium
+10347,50,100,8,6834.5,11/29/2004,Shipped,4,11,2004,Trucks and Buses,60,S18_2432,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Medium
+10370,22,96.86,7,2130.92,1/20/2005,Shipped,1,1,2005,Trucks and Buses,60,S18_2432,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Small
+10391,44,38.5,5,1694,3/9/2005,Shipped,1,3,2005,Trucks and Buses,60,S18_2432,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Small
+10120,29,71.81,8,2082.49,4/29/2003,Shipped,2,4,2003,Planes,84,S18_2581,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Small
+10223,47,100,9,4724.91,2/20/2004,Shipped,1,2,2004,Planes,84,S18_2581,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Medium
+10120,46,58.15,4,2674.9,4/29/2003,Shipped,2,4,2003,Motorcycles,60,S18_2625,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Small
+10223,28,60.57,5,1695.96,2/20/2004,Shipped,1,2,2004,Motorcycles,60,S18_2625,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Small
+10125,34,100,2,6483.46,5/21/2003,Shipped,2,5,2003,Vintage Cars,168,S18_2795,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Medium
+10139,41,100,8,7956.46,7/16/2003,Shipped,3,7,2003,Vintage Cars,168,S18_2795,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Large
+10347,21,100,6,4815.3,11/29/2004,Shipped,4,11,2004,Vintage Cars,168,S18_2795,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Medium
+10148,27,100,10,3528.36,9/11/2003,Shipped,3,9,2003,Classic Cars,132,S18_2870,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Medium
+10204,27,100,14,4169.88,12/2/2003,Shipped,4,12,2003,Classic Cars,132,S18_2870,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,NA,Young,Jeff,Medium
+10139,46,100,1,5545.76,7/16/2003,Shipped,3,7,2003,Vintage Cars,101,S18_2949,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Medium
+10163,31,100,2,3329.09,10/20/2003,Shipped,4,10,2003,Vintage Cars,101,S18_2949,Classic Legends Inc.,2125558493,5905 Pompton St.,Suite 750,NYC,NY,10022,USA,NA,Hernandez,Maria,Medium
+10270,31,96.24,10,2983.44,7/19/2004,Shipped,3,7,2004,Vintage Cars,101,S18_2949,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Small
+10347,48,100,9,4814.4,11/29/2004,Shipped,4,11,2004,Vintage Cars,101,S18_2949,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Medium
+10391,32,45.25,6,1448,3/9/2005,Shipped,1,3,2005,Vintage Cars,101,S18_2949,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Small
+10139,20,71.2,3,1424,7/16/2003,Shipped,3,7,2003,Vintage Cars,62,S18_2957,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Small
+10163,48,69.96,4,3358.08,10/20/2003,Shipped,4,10,2003,Vintage Cars,62,S18_2957,Classic Legends Inc.,2125558493,5905 Pompton St.,Suite 750,NYC,NY,10022,USA,NA,Hernandez,Maria,Medium
+10347,34,64.96,10,2208.64,11/29/2004,Shipped,4,11,2004,Vintage Cars,62,S18_2957,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Small
+10139,20,90.06,2,1801.2,7/16/2003,Shipped,3,7,2003,Vintage Cars,104,S18_3136,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Small
+10163,40,100,3,4900.8,10/20/2003,Shipped,4,10,2003,Vintage Cars,104,S18_3136,Classic Legends Inc.,2125558493,5905 Pompton St.,Suite 750,NYC,NY,10022,USA,NA,Hernandez,Maria,Medium
+10270,38,100,11,4775.08,7/19/2004,Shipped,3,7,2004,Vintage Cars,104,S18_3136,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Medium
+10347,45,100,11,4948.2,11/29/2004,Shipped,4,11,2004,Vintage Cars,104,S18_3136,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Medium
+10127,22,100,15,3837.24,6/3/2003,Shipped,2,6,2003,Classic Cars,169,S18_3232,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,NA,Young,Jeff,Medium
+10148,32,100,14,5418.88,9/11/2003,Shipped,3,9,2003,Classic Cars,169,S18_3232,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Medium
+10324,27,100,12,3155.49,11/5/2004,Shipped,4,11,2004,Classic Cars,169,S18_3232,Vitachrome Inc.,2125551500,2678 Kingston Rd.,Suite 101,NYC,NY,10022,USA,NA,Frick,Michael,Medium
+10342,30,100,4,5029.5,11/24/2004,Shipped,4,11,2004,Classic Cars,169,S18_3232,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Medium
+10349,48,100,6,7396.8,12/1/2004,Shipped,4,12,2004,Classic Cars,169,S18_3232,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,NA,Young,Jeff,Large
+10370,27,56.85,9,1534.95,1/20/2005,Shipped,1,1,2005,Classic Cars,169,S18_3232,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Small
+10169,32,70.76,5,2264.32,11/4/2003,Shipped,4,11,2003,Classic Cars,80,S18_3278,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Small
+10319,46,73.98,1,3403.08,11/3/2004,Shipped,4,11,2004,Classic Cars,80,S18_3278,Microscale Inc.,2125551957,5290 North Pendale Street,Suite 200,NYC,NY,10022,USA,NA,Kuo,Kee,Medium
+10342,25,66.74,5,1668.5,11/24/2004,Shipped,4,11,2004,Classic Cars,80,S18_3278,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Small
+10139,30,100,5,3095.4,7/16/2003,Shipped,3,7,2003,Vintage Cars,99,S18_3320,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Medium
+10163,43,100,6,4991.44,10/20/2003,Shipped,4,10,2003,Vintage Cars,99,S18_3320,Classic Legends Inc.,2125558493,5905 Pompton St.,Suite 750,NYC,NY,10022,USA,NA,Hernandez,Maria,Medium
+10347,26,100,12,2656.94,11/29/2004,Shipped,4,11,2004,Vintage Cars,99,S18_3320,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Small
+10169,36,100,4,4444.92,11/4/2003,Shipped,4,11,2003,Classic Cars,146,S18_3482,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Medium
+10342,55,100,7,6548.3,11/24/2004,Shipped,4,11,2004,Classic Cars,146,S18_3482,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Medium
+10148,28,100,11,3639.44,9/11/2003,Shipped,3,9,2003,Classic Cars,141,S18_3685,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Medium
+10204,35,100,15,5735.8,12/2/2003,Shipped,4,12,2003,Classic Cars,141,S18_3685,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,NA,Young,Jeff,Medium
+10169,38,68.39,8,2598.82,11/4/2003,Shipped,4,11,2003,Motorcycles,62,S18_3782,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Small
+10237,26,52.22,1,1357.72,4/5/2004,Shipped,2,4,2004,Motorcycles,62,S18_3782,Vitachrome Inc.,2125551500,2678 Kingston Rd.,Suite 101,NYC,NY,10022,USA,NA,Frick,Michael,Small
+10319,44,59.06,4,2598.64,11/3/2004,Shipped,4,11,2004,Motorcycles,62,S18_3782,Microscale Inc.,2125551957,5290 North Pendale Street,Suite 200,NYC,NY,10022,USA,NA,Kuo,Kee,Small
+10342,26,55.95,8,1454.7,11/24/2004,Shipped,4,11,2004,Motorcycles,62,S18_3782,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Small
+10127,25,100,5,3447,6/3/2003,Shipped,2,6,2003,Classic Cars,143,S18_4027,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,NA,Young,Jeff,Medium
+10324,49,100,13,5379.71,11/5/2004,Shipped,4,11,2004,Classic Cars,143,S18_4027,Vitachrome Inc.,2125551500,2678 Kingston Rd.,Suite 101,NYC,NY,10022,USA,NA,Frick,Michael,Medium
+10337,36,100,3,5679.36,11/21/2004,Shipped,4,11,2004,Classic Cars,143,S18_4027,Classic Legends Inc.,2125558493,5905 Pompton St.,Suite 750,NYC,NY,10022,USA,NA,Hernandez,Maria,Medium
+10349,34,100,5,4394.84,12/1/2004,Shipped,4,12,2004,Classic Cars,143,S18_4027,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,NA,Young,Jeff,Medium
+10148,34,100,1,3598.22,9/11/2003,Shipped,3,9,2003,Vintage Cars,92,S18_4409,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Medium
+10204,29,85.59,5,2482.11,12/2/2003,Shipped,4,12,2003,Vintage Cars,92,S18_4409,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,NA,Young,Jeff,Small
+10420,66,92.95,6,6134.7,5/29/2005,In Process,2,5,2005,Vintage Cars,92,S18_4409,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Medium
+10337,29,100,2,4498.19,11/21/2004,Shipped,4,11,2004,Vintage Cars,87,S18_4522,Classic Legends Inc.,2125558493,5905 Pompton St.,Suite 750,NYC,NY,10022,USA,NA,Hernandez,Maria,Medium
+10270,38,100,3,5383.08,7/19/2004,Shipped,3,7,2004,Trucks and Buses,121,S18_4600,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Medium
+10347,45,100,4,5884.65,11/29/2004,Shipped,4,11,2004,Trucks and Buses,121,S18_4600,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Medium
+10370,29,57.53,6,1668.37,1/20/2005,Shipped,1,1,2005,Trucks and Buses,121,S18_4600,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Small
+10270,44,58.36,7,2567.84,7/19/2004,Shipped,3,7,2004,Vintage Cars,50,S18_4668,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Small
+10324,38,100,6,6832.02,11/5/2004,Shipped,4,11,2004,Vintage Cars,50,S18_4668,Vitachrome Inc.,2125551500,2678 Kingston Rd.,Suite 101,NYC,NY,10022,USA,NA,Frick,Michael,Medium
+10370,20,100,2,2730,1/20/2005,Shipped,1,1,2005,Vintage Cars,50,S18_4668,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Small
+10169,33,100,7,4910.4,11/4/2003,Shipped,4,11,2003,Classic Cars,148,S18_4721,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Medium
+10319,45,100,3,7901.1,11/3/2004,Shipped,4,11,2004,Classic Cars,148,S18_4721,Microscale Inc.,2125551957,5290 North Pendale Street,Suite 200,NYC,NY,10022,USA,NA,Kuo,Kee,Large
+10342,38,100,11,6276.46,11/24/2004,Shipped,4,11,2004,Classic Cars,148,S18_4721,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Medium
+10148,29,81.25,2,2356.25,9/11/2003,Shipped,3,9,2003,Classic Cars,71,S18_4933,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Small
+10204,45,76.26,6,3431.7,12/2/2003,Shipped,4,12,2003,Classic Cars,71,S18_4933,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,NA,Young,Jeff,Medium
+10267,36,75.55,1,2719.8,7/7/2004,Shipped,3,7,2004,Classic Cars,71,S18_4933,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,NA,Young,Jeff,Small
+10420,36,57.73,7,2078.28,5/29/2005,In Process,2,5,2005,Classic Cars,71,S18_4933,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Small
+10148,25,60.26,6,1506.5,9/11/2003,Shipped,3,9,2003,Classic Cars,73,S24_1046,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Small
+10204,20,62.47,10,1249.4,12/2/2003,Shipped,4,12,2003,Classic Cars,73,S24_1046,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,NA,Young,Jeff,Small
+10267,40,80.1,5,3204,7/7/2004,Shipped,3,7,2004,Classic Cars,73,S24_1046,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,NA,Young,Jeff,Medium
+10420,60,64.67,11,3880.2,5/29/2005,In Process,2,5,2005,Classic Cars,73,S24_1046,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Medium
+10115,47,69.36,2,3259.92,4/4/2003,Shipped,2,4,2003,Classic Cars,57,S24_1444,Classic Legends Inc.,2125558493,5905 Pompton St.,Suite 750,NYC,NY,10022,USA,NA,Hernandez,Maria,Medium
+10127,20,60.69,8,1213.8,6/3/2003,Shipped,2,6,2003,Classic Cars,57,S24_1444,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,NA,Young,Jeff,Small
+10324,25,69.16,14,1729,11/5/2004,Shipped,4,11,2004,Classic Cars,57,S24_1444,Vitachrome Inc.,2125551500,2678 Kingston Rd.,Suite 101,NYC,NY,10022,USA,NA,Frick,Michael,Small
+10349,48,47.4,4,2275.2,12/1/2004,Shipped,4,12,2004,Classic Cars,57,S24_1444,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,NA,Young,Jeff,Small
+10120,35,98.05,1,3431.75,4/29/2003,Shipped,2,4,2003,Motorcycles,112,S24_1578,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Medium
+10223,32,91.29,2,2921.28,2/20/2004,Shipped,1,2,2004,Motorcycles,112,S24_1578,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Small
+10237,20,100,8,2299,4/5/2004,Shipped,2,4,2004,Motorcycles,112,S24_1578,Vitachrome Inc.,2125551500,2678 Kingston Rd.,Suite 101,NYC,NY,10022,USA,NA,Frick,Michael,Small
+10148,47,56.85,8,2671.95,9/11/2003,Shipped,3,9,2003,Classic Cars,50,S24_1628,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Small
+10204,45,49.81,12,2241.45,12/2/2003,Shipped,4,12,2003,Classic Cars,50,S24_1628,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,NA,Young,Jeff,Small
+10420,37,60.37,13,2233.69,5/29/2005,In Process,2,5,2005,Classic Cars,50,S24_1628,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Small
+10120,39,100,10,4651.53,4/29/2003,Shipped,2,4,2003,Planes,109,S24_1785,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Medium
+10223,34,100,11,3608.76,2/20/2004,Shipped,1,2,2004,Planes,109,S24_1785,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Medium
+10391,33,100,8,8344.71,3/9/2005,Shipped,1,3,2005,Vintage Cars,33,S24_1937,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Large
+10420,45,26.88,1,1209.6,5/29/2005,In Process,2,5,2005,Vintage Cars,33,S24_1937,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Small
+10120,34,83.79,5,2848.86,4/29/2003,Shipped,2,4,2003,Motorcycles,76,S24_2000,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Small
+10168,29,75.41,6,2186.89,10/28/2003,Shipped,4,10,2003,Motorcycles,76,S24_2000,Technics Stores Inc.,6505556809,9408 Furth Circle,,Burlingame,CA,94217,USA,NA,Hirano,Juri,Small
+10210,30,61.7,4,1851,1/12/2004,Shipped,1,1,2004,Motorcycles,76,S24_2000,Osaka Souveniers Co.,+81 06 6342 5555,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",,Osaka,Osaka,530-0003,Japan,Japan,Kentary,Mory,Small
+10223,38,69.31,6,2633.78,2/20/2004,Shipped,1,2,2004,Motorcycles,76,S24_2000,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Small
+10285,39,70.08,11,2733.12,8/27/2004,Shipped,3,8,2004,Motorcycles,76,S24_2000,Marta's Replicas Co.,6175558555,39323 Spinnaker Dr.,,Cambridge,MA,51247,USA,NA,Hernandez,Marta,Small
+10142,33,100,6,3366,8/8/2003,Shipped,3,8,2003,Ships,122,S24_2011,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,NA,Nelson,Valarie,Medium
+10185,30,100,7,3170.7,11/14/2003,Shipped,4,11,2003,Ships,122,S24_2011,Mini Creations Ltd.,5085559555,4575 Hillside Dr.,,New Bedford,MA,50553,USA,NA,Tam,Wing C,Medium
+10232,46,100,4,5652.94,3/20/2004,Shipped,1,3,2004,Ships,122,S24_2011,giftsbymail.co.uk,(198) 555-8888,Garden House Crowther Way,,Cowes,Isle of Wight,PO31 7PJ,UK,EMEA,Bennett,Helen,Medium
+10248,48,100,10,6960.48,5/7/2004,Cancelled,2,5,2004,Ships,122,S24_2011,Land of Toys Inc.,2125557818,897 Long Airport Avenue,,NYC,NY,10022,USA,NA,Yu,Kwai,Medium
+10261,36,100,8,4512.6,6/17/2004,Shipped,2,6,2004,Ships,122,S24_2011,Quebec Home Shopping Network,(514) 555-8054,43 rue St. Laurent,,Montreal,Quebec,H1J 1C3,Canada,NA,Fresnisre,Jean,Medium
+10283,42,100,13,5316.36,8/20/2004,Shipped,3,8,2004,Ships,122,S24_2011,"Royal Canadian Collectables, Ltd.",(604) 555-4555,23 Tsawassen Blvd.,,Tsawassen,BC,T2F 8M4,Canada,NA,Lincoln,Elizabeth,Medium
+10293,21,100,2,2941.89,9/9/2004,Shipped,3,9,2004,Ships,122,S24_2011,Amica Models & Co.,011-4988555,Via Monte Bianco 34,,Torino,,10100,Italy,EMEA,Accorti,Paolo,Small
+10306,29,100,7,3207.4,10/14/2004,Shipped,4,10,2004,Ships,122,S24_2011,"AV Stores, Co.",(171) 555-1555,Fauntleroy Circus,,Manchester,,EC2 5NT,UK,EMEA,Ashworth,Victoria,Medium
+10315,35,100,6,4215.05,10/29/2004,Shipped,4,10,2004,Ships,122,S24_2011,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Medium
+10326,41,100,4,4333.29,11/9/2004,Shipped,4,11,2004,Ships,122,S24_2011,"Volvo Model Replicas, Co",0921-12 3555,Berguvsv„gen  8,,Lule,,S-958 22,Sweden,EMEA,Berglund,Christina,Medium
+10337,29,71.97,4,2087.13,11/21/2004,Shipped,4,11,2004,Ships,122,S24_2011,Classic Legends Inc.,2125558493,5905 Pompton St.,Suite 750,NYC,NY,10022,USA,NA,Hernandez,Maria,Small
+10396,49,100,6,5720.75,3/23/2005,Shipped,1,3,2005,Ships,122,S24_2011,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,NA,Nelson,Valarie,Medium
+10414,23,100,10,3335.23,5/6/2005,On Hold,2,5,2005,Ships,122,S24_2011,Gifts4AllAges.com,6175559555,8616 Spinnaker Dr.,,Boston,MA,51003,USA,NA,Yoshido,Juri,Medium
+10124,22,45.25,1,995.5,5/21/2003,Shipped,2,5,2003,Vintage Cars,44,S24_2022,Signal Gift Stores,7025551838,8489 Strong St.,,Las Vegas,NV,83030,USA,NA,King,Sue,Small
+10149,49,49.28,6,2414.72,9/12/2003,Shipped,3,9,2003,Vintage Cars,44,S24_2022,Signal Collectibles Ltd.,4155554312,2793 Furth Circle,,Brisbane,CA,94217,USA,NA,Taylor,Sue,Small
+10182,31,36.74,5,1138.94,11/12/2003,Shipped,4,11,2003,Vintage Cars,44,S24_2022,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,NA,Nelson,Valarie,Small
+10193,20,50.62,9,1012.4,11/21/2003,Shipped,4,11,2003,Vintage Cars,44,S24_2022,"Australian Collectables, Ltd",61-9-3844-6555,7 Allen Street,,Glen Waverly,Victoria,3150,Australia,APAC,Connery,Sean,Small
+10312,23,37.63,12,865.49,10/21/2004,Shipped,4,10,2004,Vintage Cars,44,S24_2022,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,NA,Nelson,Valarie,Small
+10322,30,100,4,3500.1,11/4/2004,Shipped,4,11,2004,Vintage Cars,44,S24_2022,Online Diecast Creations Co.,6035558647,2304 Long Airport Avenue,,Nashua,NH,62005,USA,NA,Young,Valarie,Medium
+10367,28,30.59,12,856.52,1/12/2005,Resolved,1,1,2005,Vintage Cars,44,S24_2022,Toys4GrownUps.com,6265557265,78934 Hillside Dr.,,Pasadena,CA,90003,USA,NA,Young,Julie,Small
+10380,27,68.35,5,1845.45,2/16/2005,Shipped,1,2,2005,Vintage Cars,44,S24_2022,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10391,24,100,1,4042.08,3/9/2005,Shipped,1,3,2005,Vintage Cars,44,S24_2022,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Medium
+10140,47,100,1,5105.14,7/24/2003,Shipped,3,7,2003,Trucks and Buses,127,S24_2300,Technics Stores Inc.,6505556809,9408 Furth Circle,,Burlingame,CA,94217,USA,NA,Hirano,Juri,Medium
+10207,46,100,12,6819.04,12/9/2003,Shipped,4,12,2003,Trucks and Buses,127,S24_2300,Diecast Collectables,6175552555,6251 Ingle Ln.,,Boston,MA,51003,USA,NA,Franco,Valarie,Medium
+10305,24,100,10,3189.6,10/13/2004,Shipped,4,10,2004,Trucks and Buses,127,S24_2300,Marta's Replicas Co.,6175558555,39323 Spinnaker Dr.,,Cambridge,MA,51247,USA,NA,Hernandez,Marta,Medium
+10313,42,100,4,5581.8,10/22/2004,Shipped,4,10,2004,Trucks and Buses,127,S24_2300,Canadian Gift Exchange Network,(604) 555-3392,1900 Oak St.,,Vancouver,BC,V3F 2K1,Canada,NA,Tannamuri,Yoshi,Medium
+10324,31,100,2,3820.44,11/5/2004,Shipped,4,11,2004,Trucks and Buses,127,S24_2300,Vitachrome Inc.,2125551500,2678 Kingston Rd.,Suite 101,NYC,NY,10022,USA,NA,Frick,Michael,Medium
+10135,29,61.64,16,1787.56,7/2/2003,Shipped,3,7,2003,Motorcycles,69,S24_2360,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,NA,Nelson,Valarie,Small
+10145,27,60.95,3,1645.65,8/25/2003,Shipped,3,8,2003,Motorcycles,69,S24_2360,Toys4GrownUps.com,6265557265,78934 Hillside Dr.,,Pasadena,CA,90003,USA,NA,Young,Julie,Small
+10159,27,80.34,11,2169.18,10/10/2003,Shipped,4,10,2003,Motorcycles,69,S24_2360,Corporate Gift Ideas Co.,6505551386,7734 Strong St.,,San Francisco,CA,,USA,NA,Brown,Julie,Small
+10169,38,74.11,11,2816.18,11/4/2003,Shipped,4,11,2003,Motorcycles,69,S24_2360,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Small
+10237,26,79.65,4,2070.9,4/5/2004,Shipped,2,4,2004,Motorcycles,69,S24_2360,Vitachrome Inc.,2125551500,2678 Kingston Rd.,Suite 101,NYC,NY,10022,USA,NA,Frick,Michael,Small
+10319,31,81.73,7,2533.63,11/3/2004,Shipped,4,11,2004,Motorcycles,69,S24_2360,Microscale Inc.,2125551957,5290 North Pendale Street,Suite 200,NYC,NY,10022,USA,NA,Kuo,Kee,Small
+10124,32,72.7,10,2326.4,5/21/2003,Shipped,2,5,2003,Classic Cars,90,S24_2766,Signal Gift Stores,7025551838,8489 Strong St.,,Las Vegas,NV,83030,USA,NA,King,Sue,Small
+10148,21,73.6,4,1545.6,9/11/2003,Shipped,3,9,2003,Classic Cars,90,S24_2766,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Small
+10204,47,96.32,8,4527.04,12/2/2003,Shipped,4,12,2003,Classic Cars,90,S24_2766,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,NA,Young,Jeff,Medium
+10267,38,87.24,3,3315.12,7/7/2004,Shipped,3,7,2004,Classic Cars,90,S24_2766,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,NA,Young,Jeff,Medium
+10346,25,100,1,2876.75,11/29/2004,Shipped,4,11,2004,Classic Cars,90,S24_2766,Signal Gift Stores,7025551838,8489 Strong St.,,Las Vegas,NV,83030,USA,NA,King,Sue,Small
+10368,40,100,2,4107.2,1/19/2005,Shipped,1,1,2005,Classic Cars,90,S24_2766,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,NA,Nelson,Valarie,Medium
+10407,76,94.5,6,7182,4/22/2005,On Hold,2,4,2005,Classic Cars,90,S24_2766,The Sharp Gifts Warehouse,4085553659,3086 Ingle Ln.,,San Jose,CA,94217,USA,NA,Frick,Sue,Large
+10420,39,100,9,3933.93,5/29/2005,In Process,2,5,2005,Classic Cars,90,S24_2766,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Medium
+10127,39,38.19,12,1489.41,6/3/2003,Shipped,2,6,2003,Classic Cars,35,S24_2840,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,NA,Young,Jeff,Small
+10324,30,100,9,3338.1,11/5/2004,Shipped,4,11,2004,Classic Cars,35,S24_2840,Vitachrome Inc.,2125551500,2678 Kingston Rd.,Suite 101,NYC,NY,10022,USA,NA,Frick,Michael,Medium
+10349,36,37.13,3,1336.68,12/1/2004,Shipped,4,12,2004,Classic Cars,35,S24_2840,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,NA,Young,Jeff,Small
+10131,35,67.14,5,2349.9,6/16/2003,Shipped,2,6,2003,Planes,68,S24_2841,Gift Ideas Corp.,2035554407,2440 Pompton St.,,Glendale,CT,97561,USA,NA,Lewis,Dan,Small
+10143,27,60.97,8,1646.19,8/10/2003,Shipped,3,8,2003,Planes,68,S24_2841,Mini Creations Ltd.,5085559555,4575 Hillside Dr.,,New Bedford,MA,50553,USA,NA,Tam,Wing C,Small
+10222,32,81.53,5,2608.96,2/19/2004,Shipped,1,2,2004,Planes,68,S24_2841,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,NA,Thompson,Valarie,Small
+10249,20,67.82,1,1356.4,5/8/2004,Shipped,2,5,2004,Planes,68,S24_2841,Cambridge Collectables Co.,6175555555,4658 Baden Av.,,Cambridge,MA,51247,USA,NA,Tseng,Kyung,Small
+10274,40,65.08,2,2603.2,7/21/2004,Shipped,3,7,2004,Planes,68,S24_2841,Collectables For Less Inc.,6175558555,7825 Douglas Av.,,Brickhaven,MA,58339,USA,NA,Nelson,Allen,Small
+10307,25,75.36,2,1884,10/14/2004,Shipped,4,10,2004,Planes,68,S24_2841,"Classic Gift Ideas, Inc",2155554695,782 First Street,,Philadelphia,PA,71270,USA,NA,Cervantes,Francisca,Small
+10316,34,63.71,10,2166.14,11/1/2004,Shipped,4,11,2004,Planes,68,S24_2841,giftsbymail.co.uk,(198) 555-8888,Garden House Crowther Way,,Cowes,Isle of Wight,PO31 7PJ,UK,EMEA,Bennett,Helen,Small
+10339,55,100,12,6214.45,11/23/2004,Shipped,4,11,2004,Planes,68,S24_2841,"Tokyo Collectables, Ltd",+81 3 3584 0555,2-2-8 Roppongi,,Minato-ku,Tokyo,106-0032,Japan,Japan,Shimamura,Akiko,Medium
+10400,24,61.66,2,1479.84,4/1/2005,Shipped,2,4,2005,Planes,68,S24_2841,The Sharp Gifts Warehouse,4085553659,3086 Ingle Ln.,,San Jose,CA,94217,USA,NA,Frick,Sue,Small
+10415,21,67.82,1,1424.22,5/9/2005,Disputed,2,5,2005,Planes,68,S24_2841,"Australian Collectables, Ltd",61-9-3844-6555,7 Allen Street,,Glen Waverly,Victoria,3150,Australia,APAC,Connery,Sean,Small
+10124,25,93.95,9,2348.75,5/21/2003,Shipped,2,5,2003,Classic Cars,117,S24_2887,Signal Gift Stores,7025551838,8489 Strong St.,,Las Vegas,NV,83030,USA,NA,King,Sue,Small
+10148,34,100,3,4392.12,9/11/2003,Shipped,3,9,2003,Classic Cars,117,S24_2887,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Medium
+10204,42,100,7,4242,12/2/2003,Shipped,4,12,2003,Classic Cars,117,S24_2887,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,NA,Young,Jeff,Medium
+10267,43,100,2,4645.72,7/7/2004,Shipped,3,7,2004,Classic Cars,117,S24_2887,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,NA,Young,Jeff,Medium
+10407,59,98.65,5,5820.35,4/22/2005,On Hold,2,4,2005,Classic Cars,117,S24_2887,The Sharp Gifts Warehouse,4085553659,3086 Ingle Ln.,,San Jose,CA,94217,USA,NA,Frick,Sue,Medium
+10420,55,96.3,8,5296.5,5/29/2005,In Process,2,5,2005,Classic Cars,117,S24_2887,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Medium
+10135,20,35.87,1,717.4,7/2/2003,Shipped,3,7,2003,Classic Cars,37,S24_2972,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,NA,Nelson,Valarie,Small
+10147,25,42.67,1,1066.75,9/5/2003,Shipped,3,9,2003,Classic Cars,37,S24_2972,Collectables For Less Inc.,6175558555,7825 Douglas Av.,,Brickhaven,MA,58339,USA,NA,Nelson,Allen,Small
+10171,36,35.49,4,1277.64,11/5/2003,Shipped,4,11,2003,Classic Cars,37,S24_2972,Quebec Home Shopping Network,(514) 555-8054,43 rue St. Laurent,,Montreal,Quebec,H1J 1C3,Canada,NA,Fresnisre,Jean,Small
+10192,30,30.59,13,917.7,11/20/2003,Shipped,4,11,2003,Classic Cars,37,S24_2972,Online Diecast Creations Co.,6035558647,2304 Long Airport Avenue,,Nashua,NH,62005,USA,NA,Young,Valarie,Small
+10278,31,38.89,8,1205.59,8/6/2004,Shipped,3,8,2004,Classic Cars,37,S24_2972,Signal Gift Stores,7025551838,8489 Strong St.,,Las Vegas,NV,83030,USA,NA,King,Sue,Small
+10321,37,33.23,12,1229.51,11/4/2004,Shipped,4,11,2004,Classic Cars,37,S24_2972,FunGiftIdeas.com,5085552555,1785 First Street,,New Bedford,MA,50553,USA,NA,Benitez,Violeta,Small
+10331,27,42.24,13,1140.48,11/17/2004,Shipped,4,11,2004,Classic Cars,37,S24_2972,Motor Mint Distributors Inc.,2155559857,11328 Douglas Av.,,Philadelphia,PA,71270,USA,NA,Hernandez,Rosa,Small
+10342,39,40.4,9,1575.6,11/24/2004,Shipped,4,11,2004,Classic Cars,37,S24_2972,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Small
+10390,37,100,5,4894.73,3/4/2005,Shipped,1,3,2005,Classic Cars,37,S24_2972,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,NA,Nelson,Valarie,Medium
+10142,49,98.25,1,4814.25,8/8/2003,Shipped,3,8,2003,Vintage Cars,88,S24_3151,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,NA,Nelson,Valarie,Medium
+10154,31,91.17,2,2826.27,10/2/2003,Shipped,4,10,2003,Vintage Cars,88,S24_3151,Boards & Toys Co.,3105552373,4097 Douglas Av.,,Glendale,CA,92561,USA,NA,Young,Leslie,Small
+10185,33,74.35,2,2453.55,11/14/2003,Shipped,4,11,2003,Vintage Cars,88,S24_3151,Mini Creations Ltd.,5085559555,4575 Hillside Dr.,,New Bedford,MA,50553,USA,NA,Tam,Wing C,Small
+10222,47,70.81,14,3328.07,2/19/2004,Shipped,1,2,2004,Vintage Cars,88,S24_3151,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,NA,Thompson,Valarie,Medium
+10233,40,94.71,2,3788.4,3/29/2004,Shipped,1,3,2004,Vintage Cars,88,S24_3151,Tekni Collectables Inc.,2015559350,7476 Moss Rd.,,Newark,NJ,94019,USA,NA,Brown,William,Medium
+10248,30,100,5,3053.7,5/7/2004,Cancelled,2,5,2004,Vintage Cars,88,S24_3151,Land of Toys Inc.,2125557818,897 Long Airport Avenue,,NYC,NY,10022,USA,NA,Yu,Kwai,Medium
+10261,22,91.17,3,2005.74,6/17/2004,Shipped,2,6,2004,Vintage Cars,88,S24_3151,Quebec Home Shopping Network,(514) 555-8054,43 rue St. Laurent,,Montreal,Quebec,H1J 1C3,Canada,NA,Fresnisre,Jean,Small
+10283,34,92.94,8,3159.96,8/20/2004,Shipped,3,8,2004,Vintage Cars,88,S24_3151,"Royal Canadian Collectables, Ltd.",(604) 555-4555,23 Tsawassen Blvd.,,Tsawassen,BC,T2F 8M4,Canada,NA,Lincoln,Elizabeth,Medium
+10295,46,84.97,3,3908.62,9/10/2004,Shipped,3,9,2004,Vintage Cars,88,S24_3151,Gifts4AllAges.com,6175559555,8616 Spinnaker Dr.,,Boston,MA,51003,USA,NA,Yoshido,Juri,Medium
+10339,55,100,13,10758,11/23/2004,Shipped,4,11,2004,Vintage Cars,88,S24_3151,"Tokyo Collectables, Ltd",+81 3 3584 0555,2-2-8 Roppongi,,Minato-ku,Tokyo,106-0032,Japan,Japan,Shimamura,Akiko,Large
+10396,27,83.2,7,2246.4,3/23/2005,Shipped,1,3,2005,Vintage Cars,88,S24_3151,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,NA,Nelson,Valarie,Small
+10414,60,100,5,6107.4,5/6/2005,On Hold,2,5,2005,Vintage Cars,88,S24_3151,Gifts4AllAges.com,6175559555,8616 Spinnaker Dr.,,Boston,MA,51003,USA,NA,Yoshido,Juri,Medium
+10124,49,83.04,11,4068.96,5/21/2003,Shipped,2,5,2003,Classic Cars,85,S24_3191,Signal Gift Stores,7025551838,8489 Strong St.,,Las Vegas,NV,83030,USA,NA,King,Sue,Medium
+10148,31,73.62,5,2282.22,9/11/2003,Shipped,3,9,2003,Classic Cars,85,S24_3191,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Small
+10204,40,79.62,9,3184.8,12/2/2003,Shipped,4,12,2003,Classic Cars,85,S24_3191,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,NA,Young,Jeff,Medium
+10267,44,96.74,4,4256.56,7/7/2004,Shipped,3,7,2004,Classic Cars,85,S24_3191,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,NA,Young,Jeff,Medium
+10346,24,100,2,3325.92,11/29/2004,Shipped,4,11,2004,Classic Cars,85,S24_3191,Signal Gift Stores,7025551838,8489 Strong St.,,Las Vegas,NV,83030,USA,NA,King,Sue,Medium
+10368,46,79.62,1,3662.52,1/19/2005,Shipped,1,1,2005,Classic Cars,85,S24_3191,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,NA,Nelson,Valarie,Medium
+10407,13,81.33,7,1057.29,4/22/2005,On Hold,2,4,2005,Classic Cars,85,S24_3191,The Sharp Gifts Warehouse,4085553659,3086 Ingle Ln.,,San Jose,CA,94217,USA,NA,Frick,Sue,Small
+10420,35,96.74,10,3385.9,5/29/2005,In Process,2,5,2005,Classic Cars,85,S24_3191,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Medium
+10169,34,50.21,1,1707.14,11/4/2003,Shipped,4,11,2003,Classic Cars,61,S24_3371,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Small
+10331,25,100,9,3078.5,11/17/2004,Shipped,4,11,2004,Classic Cars,61,S24_3371,Motor Mint Distributors Inc.,2155559857,11328 Douglas Av.,,Philadelphia,PA,71270,USA,NA,Hernandez,Rosa,Medium
+10342,48,62.45,10,2997.6,11/24/2004,Shipped,4,11,2004,Classic Cars,61,S24_3371,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Small
+10131,29,59.18,6,1716.22,6/16/2003,Shipped,2,6,2003,Vintage Cars,65,S24_3420,Gift Ideas Corp.,2035554407,2440 Pompton St.,,Glendale,CT,97561,USA,NA,Lewis,Dan,Small
+10143,33,77.59,9,2560.47,8/10/2003,Shipped,3,8,2003,Vintage Cars,65,S24_3420,Mini Creations Ltd.,5085559555,4575 Hillside Dr.,,New Bedford,MA,50553,USA,NA,Tam,Wing C,Small
+10222,43,70.35,6,3025.05,2/19/2004,Shipped,1,2,2004,Vintage Cars,65,S24_3420,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,NA,Thompson,Valarie,Medium
+10249,25,69.7,2,1742.5,5/8/2004,Shipped,2,5,2004,Vintage Cars,65,S24_3420,Cambridge Collectables Co.,6175555555,4658 Baden Av.,,Cambridge,MA,51247,USA,NA,Tseng,Kyung,Small
+10274,24,72.33,3,1735.92,7/21/2004,Shipped,3,7,2004,Vintage Cars,65,S24_3420,Collectables For Less Inc.,6175558555,7825 Douglas Av.,,Brickhaven,MA,58339,USA,NA,Nelson,Allen,Small
+10307,22,71.67,3,1576.74,10/14/2004,Shipped,4,10,2004,Vintage Cars,65,S24_3420,"Classic Gift Ideas, Inc",2155554695,782 First Street,,Philadelphia,PA,71270,USA,NA,Cervantes,Francisca,Small
+10316,47,76.93,11,3615.71,11/1/2004,Shipped,4,11,2004,Vintage Cars,65,S24_3420,giftsbymail.co.uk,(198) 555-8888,Garden House Crowther Way,,Cowes,Isle of Wight,PO31 7PJ,UK,EMEA,Bennett,Helen,Medium
+10339,29,99.69,14,2891.01,11/23/2004,Shipped,4,11,2004,Vintage Cars,65,S24_3420,"Tokyo Collectables, Ltd",+81 3 3584 0555,2-2-8 Roppongi,,Minato-ku,Tokyo,106-0032,Japan,Japan,Shimamura,Akiko,Small
+10351,38,68.38,4,2598.44,12/3/2004,Shipped,4,12,2004,Vintage Cars,65,S24_3420,"Stylish Desk Decors, Co.",(171) 555-0297,35 King George,,London,,WX3 6FW,UK,EMEA,Brown,Ann,Small
+10361,34,100,6,3871.92,12/17/2004,Shipped,4,12,2004,Vintage Cars,65,S24_3420,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Medium
+10124,43,100,13,5203,5/21/2003,Shipped,2,5,2003,Classic Cars,107,S24_3432,Signal Gift Stores,7025551838,8489 Strong St.,,Las Vegas,NV,83030,USA,NA,King,Sue,Medium
+10148,27,100,7,3469.5,9/11/2003,Shipped,3,9,2003,Classic Cars,107,S24_3432,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Medium
+10204,48,91.02,11,4368.96,12/2/2003,Shipped,4,12,2003,Classic Cars,107,S24_3432,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,NA,Young,Jeff,Medium
+10267,43,100,6,5110.98,7/7/2004,Shipped,3,7,2004,Classic Cars,107,S24_3432,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,NA,Young,Jeff,Medium
+10346,26,95.88,6,2492.88,11/29/2004,Shipped,4,11,2004,Classic Cars,107,S24_3432,Signal Gift Stores,7025551838,8489 Strong St.,,Las Vegas,NV,83030,USA,NA,King,Sue,Small
+10368,20,99.58,4,1991.6,1/19/2005,Shipped,1,1,2005,Classic Cars,107,S24_3432,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,NA,Nelson,Valarie,Small
+10407,43,86.73,9,3729.39,4/22/2005,On Hold,2,4,2005,Classic Cars,107,S24_3432,The Sharp Gifts Warehouse,4085553659,3086 Ingle Ln.,,San Jose,CA,94217,USA,NA,Frick,Sue,Medium
+10420,26,100,12,2617.16,5/29/2005,In Process,2,5,2005,Classic Cars,107,S24_3432,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Small
+10222,46,80.51,11,3703.46,2/19/2004,Shipped,1,2,2004,Vintage Cars,83,S24_3816,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,NA,Thompson,Valarie,Medium
+10248,23,76.31,2,1755.13,5/7/2004,Cancelled,2,5,2004,Vintage Cars,83,S24_3816,Land of Toys Inc.,2125557818,897 Long Airport Avenue,,NYC,NY,10022,USA,NA,Yu,Kwai,Small
+10283,33,72.96,5,2407.68,8/20/2004,Shipped,3,8,2004,Vintage Cars,83,S24_3816,"Royal Canadian Collectables, Ltd.",(604) 555-4555,23 Tsawassen Blvd.,,Tsawassen,BC,T2F 8M4,Canada,NA,Lincoln,Elizabeth,Small
+10307,22,91.41,8,2011.02,10/14/2004,Shipped,4,10,2004,Vintage Cars,83,S24_3816,"Classic Gift Ideas, Inc",2155554695,782 First Street,,Philadelphia,PA,71270,USA,NA,Cervantes,Francisca,Small
+10316,25,92.25,16,2306.25,11/1/2004,Shipped,4,11,2004,Vintage Cars,83,S24_3816,giftsbymail.co.uk,(198) 555-8888,Garden House Crowther Way,,Cowes,Isle of Wight,PO31 7PJ,UK,EMEA,Bennett,Helen,Small
+10339,42,59.36,16,2493.12,11/23/2004,Shipped,4,11,2004,Vintage Cars,83,S24_3816,"Tokyo Collectables, Ltd",+81 3 3584 0555,2-2-8 Roppongi,,Minato-ku,Tokyo,106-0032,Japan,Japan,Shimamura,Akiko,Small
+10385,37,85.54,2,3164.98,2/28/2005,Shipped,1,2,2005,Vintage Cars,83,S24_3816,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,NA,Nelson,Valarie,Medium
+10396,37,90.57,8,3351.09,3/23/2005,Shipped,1,3,2005,Vintage Cars,83,S24_3816,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,NA,Nelson,Valarie,Medium
+10400,42,72.96,8,3064.32,4/1/2005,Shipped,2,4,2005,Vintage Cars,83,S24_3816,The Sharp Gifts Warehouse,4085553659,3086 Ingle Ln.,,San Jose,CA,94217,USA,NA,Frick,Sue,Medium
+10414,51,76.31,2,3891.81,5/6/2005,On Hold,2,5,2005,Vintage Cars,83,S24_3816,Gifts4AllAges.com,6175559555,8616 Spinnaker Dr.,,Boston,MA,51003,USA,NA,Yoshido,Juri,Medium
+10135,47,100,2,6336.07,7/2/2003,Shipped,3,7,2003,Classic Cars,140,S24_3856,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,NA,Nelson,Valarie,Medium
+10147,23,100,2,2906.97,9/5/2003,Shipped,3,9,2003,Classic Cars,140,S24_3856,Collectables For Less Inc.,6175558555,7825 Douglas Av.,,Brickhaven,MA,58339,USA,NA,Nelson,Allen,Small
+10192,45,100,14,6319.35,11/20/2003,Shipped,4,11,2003,Classic Cars,140,S24_3856,Online Diecast Creations Co.,6035558647,2304 Long Airport Avenue,,Nashua,NH,62005,USA,NA,Young,Valarie,Medium
+10278,25,100,9,3159.75,8/6/2004,Shipped,3,8,2004,Classic Cars,140,S24_3856,Signal Gift Stores,7025551838,8489 Strong St.,,Las Vegas,NV,83030,USA,NA,King,Sue,Medium
+10321,26,100,13,4052.88,11/4/2004,Shipped,4,11,2004,Classic Cars,140,S24_3856,FunGiftIdeas.com,5085552555,1785 First Street,,New Bedford,MA,50553,USA,NA,Benitez,Violeta,Medium
+10331,21,100,1,3135.93,11/17/2004,Shipped,4,11,2004,Classic Cars,140,S24_3856,Motor Mint Distributors Inc.,2155559857,11328 Douglas Av.,,Philadelphia,PA,71270,USA,NA,Hernandez,Rosa,Medium
+10342,42,100,6,5013.54,11/24/2004,Shipped,4,11,2004,Classic Cars,140,S24_3856,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Medium
+10131,50,81.89,3,4094.5,6/16/2003,Shipped,2,6,2003,Planes,68,S24_3949,Gift Ideas Corp.,2035554407,2440 Pompton St.,,Glendale,CT,97561,USA,NA,Lewis,Dan,Medium
+10143,28,66.19,6,1853.32,8/10/2003,Shipped,3,8,2003,Planes,68,S24_3949,Mini Creations Ltd.,5085559555,4575 Hillside Dr.,,New Bedford,MA,50553,USA,NA,Tam,Wing C,Small
+10168,27,73.02,18,1971.54,10/28/2003,Shipped,4,10,2003,Planes,68,S24_3949,Technics Stores Inc.,6505556809,9408 Furth Circle,,Burlingame,CA,94217,USA,NA,Hirano,Juri,Small
+10210,29,69.6,16,2018.4,1/12/2004,Shipped,1,1,2004,Planes,68,S24_3949,Osaka Souveniers Co.,+81 06 6342 5555,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",,Osaka,Osaka,530-0003,Japan,Japan,Kentary,Mory,Small
+10222,48,56.64,3,2718.72,2/19/2004,Shipped,1,2,2004,Planes,68,S24_3949,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,NA,Thompson,Valarie,Small
+10235,33,60.05,12,1981.65,4/2/2004,Shipped,2,4,2004,Planes,68,S24_3949,"Royal Canadian Collectables, Ltd.",(604) 555-4555,23 Tsawassen Blvd.,,Tsawassen,BC,T2F 8M4,Canada,NA,Lincoln,Elizabeth,Small
+10250,40,75.06,13,3002.4,5/11/2004,Shipped,2,5,2004,Planes,68,S24_3949,The Sharp Gifts Warehouse,4085553659,3086 Ingle Ln.,,San Jose,CA,94217,USA,NA,Frick,Sue,Medium
+10308,43,76.43,16,3286.49,10/15/2004,Shipped,4,10,2004,Planes,68,S24_3949,Mini Classics,9145554562,3758 North Pendale Street,,White Plains,NY,24067,USA,NA,Frick,Steve,Medium
+10316,30,77.79,8,2333.7,11/1/2004,Shipped,4,11,2004,Planes,68,S24_3949,giftsbymail.co.uk,(198) 555-8888,Garden House Crowther Way,,Cowes,Isle of Wight,PO31 7PJ,UK,EMEA,Bennett,Helen,Small
+10339,45,96.92,11,4361.4,11/23/2004,Shipped,4,11,2004,Planes,68,S24_3949,"Tokyo Collectables, Ltd",+81 3 3584 0555,2-2-8 Roppongi,,Minato-ku,Tokyo,106-0032,Japan,Japan,Shimamura,Akiko,Medium
+10351,34,59.37,3,2018.58,12/3/2004,Shipped,4,12,2004,Planes,68,S24_3949,"Stylish Desk Decors, Co.",(171) 555-0297,35 King George,,London,,WX3 6FW,UK,EMEA,Brown,Ann,Small
+10361,26,100,7,3710.98,12/17/2004,Shipped,4,12,2004,Planes,68,S24_3949,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Medium
+10100,49,34.47,1,1689.03,1/6/2003,Shipped,1,1,2003,Vintage Cars,41,S24_3969,Online Diecast Creations Co.,6035558647,2304 Long Airport Avenue,,Nashua,NH,62005,USA,NA,Young,Valarie,Small
+10124,46,33.23,4,1528.58,5/21/2003,Shipped,2,5,2003,Vintage Cars,41,S24_3969,Signal Gift Stores,7025551838,8489 Strong St.,,Las Vegas,NV,83030,USA,NA,King,Sue,Small
+10149,26,38.98,9,1013.48,9/12/2003,Shipped,3,9,2003,Vintage Cars,41,S24_3969,Signal Collectibles Ltd.,4155554312,2793 Furth Circle,,Brisbane,CA,94217,USA,NA,Taylor,Sue,Small
+10182,23,42.26,8,971.98,11/12/2003,Shipped,4,11,2003,Vintage Cars,41,S24_3969,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,NA,Nelson,Valarie,Small
+10193,22,41.03,12,902.66,11/21/2003,Shipped,4,11,2003,Vintage Cars,41,S24_3969,"Australian Collectables, Ltd",61-9-3844-6555,7 Allen Street,,Glen Waverly,Victoria,3150,Australia,APAC,Connery,Sean,Small
+10204,39,33.23,2,1295.97,12/2/2003,Shipped,4,12,2003,Vintage Cars,41,S24_3969,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,NA,Young,Jeff,Small
+10242,46,36.93,1,1698.78,4/20/2004,Shipped,2,4,2004,Vintage Cars,41,S24_3969,Microscale Inc.,2125551957,5290 North Pendale Street,Suite 200,NYC,NY,10022,USA,NA,Kuo,Kee,Small
+10346,22,97.44,4,2143.68,11/29/2004,Shipped,4,11,2004,Vintage Cars,41,S24_3969,Signal Gift Stores,7025551838,8489 Strong St.,,Las Vegas,NV,83030,USA,NA,King,Sue,Small
+10368,46,37.34,3,1717.64,1/19/2005,Shipped,1,1,2005,Vintage Cars,41,S24_3969,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,NA,Nelson,Valarie,Small
+10408,15,36.93,1,553.95,4/22/2005,Shipped,2,4,2005,Vintage Cars,41,S24_3969,"Tokyo Collectables, Ltd",+81 3 3584 0555,2-2-8 Roppongi,,Minato-ku,Tokyo,106-0032,Japan,Japan,Shimamura,Akiko,Small
+10420,15,43.49,3,652.35,5/29/2005,In Process,2,5,2005,Vintage Cars,41,S24_3969,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Small
+10115,44,100,1,5568.64,4/4/2003,Shipped,2,4,2003,Classic Cars,118,S24_4048,Classic Legends Inc.,2125558493,5905 Pompton St.,Suite 750,NYC,NY,10022,USA,NA,Hernandez,Maria,Medium
+10127,20,96.99,7,1939.8,6/3/2003,Shipped,2,6,2003,Classic Cars,118,S24_4048,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,NA,Young,Jeff,Small
+10195,34,100,2,3699.88,11/25/2003,Shipped,4,11,2003,Classic Cars,118,S24_4048,Mini Classics,9145554562,3758 North Pendale Street,,White Plains,NY,24067,USA,NA,Frick,Steve,Medium
+10207,28,100,3,2980.6,12/9/2003,Shipped,4,12,2003,Classic Cars,118,S24_4048,Diecast Collectables,6175552555,6251 Ingle Ln.,,Boston,MA,51003,USA,NA,Franco,Valarie,Small
+10349,23,100,2,3182.97,12/1/2004,Shipped,4,12,2004,Classic Cars,118,S24_4048,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,NA,Young,Jeff,Medium
+10126,34,100,15,3576.12,5/28/2003,Shipped,2,5,2003,Vintage Cars,97,S24_4258,"Corrida Auto Replicas, Ltd",(91) 555 22 82,"C/ Araquil, 67",,Madrid,,28023,Spain,EMEA,Sommer,Mart¡n,Medium
+10139,29,100,4,3276.13,7/16/2003,Shipped,3,7,2003,Vintage Cars,97,S24_4258,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Medium
+10163,42,91.55,5,3845.1,10/20/2003,Shipped,4,10,2003,Vintage Cars,97,S24_4258,Classic Legends Inc.,2125558493,5905 Pompton St.,Suite 750,NYC,NY,10022,USA,NA,Hernandez,Maria,Medium
+10257,46,78.89,4,3628.94,6/14/2004,Shipped,2,6,2004,Vintage Cars,97,S24_4258,The Sharp Gifts Warehouse,4085553659,3086 Ingle Ln.,,San Jose,CA,94217,USA,NA,Frick,Sue,Medium
+10290,45,100,1,5171.4,9/7/2004,Shipped,3,9,2004,Vintage Cars,97,S24_4258,Auto-Moto Classics Inc.,6175558428,16780 Pompton St.,,Brickhaven,MA,58339,USA,NA,Taylor,Leslie,Medium
+10312,44,100,7,4884.88,10/21/2004,Shipped,4,10,2004,Vintage Cars,97,S24_4258,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,NA,Nelson,Valarie,Medium
+10324,33,100,3,6267.69,11/5/2004,Shipped,4,11,2004,Vintage Cars,97,S24_4258,Vitachrome Inc.,2125551500,2678 Kingston Rd.,Suite 101,NYC,NY,10022,USA,NA,Frick,Michael,Medium
+10369,40,86.92,3,3476.8,1/20/2005,Shipped,1,1,2005,Vintage Cars,97,S24_4258,Collectables For Less Inc.,6175558555,7825 Douglas Av.,,Brickhaven,MA,58339,USA,NA,Nelson,Allen,Medium
+10382,33,100,4,4592.61,2/17/2005,Shipped,1,2,2005,Vintage Cars,97,S24_4258,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,NA,Nelson,Valarie,Medium
+10423,28,78.89,4,2208.92,5/30/2005,In Process,2,5,2005,Vintage Cars,97,S24_4258,Petit Auto,(02) 5554 67,Rue Joseph-Bens 532,,Bruxelles,,B-1180,Belgium,EMEA,Dewey,Catherine,Small
+10106,26,63.76,3,1657.76,2/17/2003,Shipped,1,2,2003,Planes,72,S24_4278,Rovelli Gifts,035-640555,Via Ludovico il Moro 22,,Bergamo,,24100,Italy,EMEA,Rovelli,Giovanni,Small
+10120,29,85.49,9,2479.21,4/29/2003,Shipped,2,4,2003,Planes,72,S24_4278,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Small
+10223,23,74.62,10,1716.26,2/20/2004,Shipped,1,2,2004,Planes,72,S24_4278,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Small
+10353,35,89.9,3,3146.5,12/4/2004,Shipped,4,12,2004,Planes,72,S24_4278,Gift Ideas Corp.,2035554407,2440 Pompton St.,,Glendale,CT,97561,USA,NA,Lewis,Dan,Medium
+10361,25,62.46,1,1561.5,12/17/2004,Shipped,4,12,2004,Planes,72,S24_4278,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Small
+10135,23,87.31,11,2008.13,7/2/2003,Shipped,3,7,2003,Classic Cars,80,S24_4620,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,NA,Nelson,Valarie,Small
+10147,31,64.67,11,2004.77,9/5/2003,Shipped,3,9,2003,Classic Cars,80,S24_4620,Collectables For Less Inc.,6175558555,7825 Douglas Av.,,Brickhaven,MA,58339,USA,NA,Nelson,Allen,Small
+10159,23,67.1,6,1543.3,10/10/2003,Shipped,4,10,2003,Classic Cars,80,S24_4620,Corporate Gift Ideas Co.,6505551386,7734 Strong St.,,San Francisco,CA,,USA,NA,Brown,Julie,Small
+10169,24,94.58,6,2269.92,11/4/2003,Shipped,4,11,2003,Classic Cars,80,S24_4620,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Small
+10319,43,85.69,2,3684.67,11/3/2004,Shipped,4,11,2004,Classic Cars,80,S24_4620,Microscale Inc.,2125551957,5290 North Pendale Street,Suite 200,NYC,NY,10022,USA,NA,Kuo,Kee,Medium
+10390,30,82.42,10,2472.6,3/4/2005,Shipped,1,3,2005,Classic Cars,80,S24_4620,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,NA,Nelson,Valarie,Small
+10140,26,100,3,2829.58,7/24/2003,Shipped,3,7,2003,Trucks and Buses,96,S32_1268,Technics Stores Inc.,6505556809,9408 Furth Circle,,Burlingame,CA,94217,USA,NA,Hirano,Juri,Small
+10207,49,80.9,14,3964.1,12/9/2003,Shipped,4,12,2003,Trucks and Buses,96,S32_1268,Diecast Collectables,6175552555,6251 Ingle Ln.,,Boston,MA,51003,USA,NA,Franco,Valarie,Medium
+10270,32,85.72,1,2743.04,7/19/2004,Shipped,3,7,2004,Trucks and Buses,96,S32_1268,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Small
+10305,28,100,12,3155.04,10/13/2004,Shipped,4,10,2004,Trucks and Buses,96,S32_1268,Marta's Replicas Co.,6175558555,39323 Spinnaker Dr.,,Cambridge,MA,51247,USA,NA,Hernandez,Marta,Medium
+10313,27,87.64,6,2366.28,10/22/2004,Shipped,4,10,2004,Trucks and Buses,96,S32_1268,Canadian Gift Exchange Network,(604) 555-3392,1900 Oak St.,,Vancouver,BC,V3F 2K1,Canada,NA,Tannamuri,Yoshi,Small
+10324,20,98.18,11,1963.6,11/5/2004,Shipped,4,11,2004,Trucks and Buses,96,S32_1268,Vitachrome Inc.,2125551500,2678 Kingston Rd.,Suite 101,NYC,NY,10022,USA,NA,Frick,Michael,Small
+10371,26,100,1,4044.04,1/23/2005,Shipped,1,1,2005,Trucks and Buses,96,S32_1268,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,NA,Nelson,Valarie,Medium
+10382,26,100,6,2708.42,2/17/2005,Shipped,1,2,2005,Trucks and Buses,96,S32_1268,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,NA,Nelson,Valarie,Small
+10411,26,100,1,2904.72,5/1/2005,Shipped,2,5,2005,Trucks and Buses,96,S32_1268,Quebec Home Shopping Network,(514) 555-8054,43 rue St. Laurent,,Montreal,Quebec,H1J 1C3,Canada,NA,Fresnisre,Jean,Small
+10107,20,92.9,8,1858,2/24/2003,Shipped,1,2,2003,Motorcycles,99,S32_1374,Land of Toys Inc.,2125557818,897 Long Airport Avenue,,NYC,NY,10022,USA,NA,Yu,Kwai,Small
+10120,22,100,6,2461.36,4/29/2003,Shipped,2,4,2003,Motorcycles,99,S32_1374,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Small
+10210,46,79.91,5,3675.86,1/12/2004,Shipped,1,1,2004,Motorcycles,99,S32_1374,Osaka Souveniers Co.,+81 06 6342 5555,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",,Osaka,Osaka,530-0003,Japan,Japan,Kentary,Mory,Medium
+10223,21,100,7,2475.27,2/20/2004,Shipped,1,2,2004,Motorcycles,99,S32_1374,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Small
+10285,37,98.89,12,3658.93,8/27/2004,Shipped,3,8,2004,Motorcycles,99,S32_1374,Marta's Replicas Co.,6175558555,39323 Spinnaker Dr.,,Cambridge,MA,51247,USA,NA,Hernandez,Marta,Medium
+10353,46,81.17,5,3733.82,12/4/2004,Shipped,4,12,2004,Motorcycles,99,S32_1374,Gift Ideas Corp.,2035554407,2440 Pompton St.,,Glendale,CT,97561,USA,NA,Lewis,Dan,Medium
+10401,49,100,1,4992.61,4/3/2005,On Hold,2,4,2005,Motorcycles,99,S32_1374,Tekni Collectables Inc.,2015559350,7476 Moss Rd.,,Newark,NJ,94019,USA,NA,Brown,William,Medium
+10135,33,40.23,14,1327.59,7/2/2003,Shipped,3,7,2003,Motorcycles,40,S32_2206,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,NA,Nelson,Valarie,Small
+10145,31,35.8,1,1109.8,8/25/2003,Shipped,3,8,2003,Motorcycles,40,S32_2206,Toys4GrownUps.com,6265557265,78934 Hillside Dr.,,Pasadena,CA,90003,USA,NA,Young,Julie,Small
+10159,35,35.4,9,1239,10/10/2003,Shipped,4,10,2003,Motorcycles,40,S32_2206,Corporate Gift Ideas Co.,6505551386,7734 Strong St.,,San Francisco,CA,,USA,NA,Brown,Julie,Small
+10169,26,39.83,9,1035.58,11/4/2003,Shipped,4,11,2003,Motorcycles,40,S32_2206,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Small
+10237,26,40.23,2,1045.98,4/5/2004,Shipped,2,4,2004,Motorcycles,40,S32_2206,Vitachrome Inc.,2125551500,2678 Kingston Rd.,Suite 101,NYC,NY,10022,USA,NA,Frick,Michael,Small
+10319,29,38.22,5,1108.38,11/3/2004,Shipped,4,11,2004,Motorcycles,40,S32_2206,Microscale Inc.,2125551957,5290 North Pendale Street,Suite 200,NYC,NY,10022,USA,NA,Kuo,Kee,Small
+10390,41,44.56,11,1826.96,3/4/2005,Shipped,1,3,2005,Motorcycles,40,S32_2206,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,NA,Nelson,Valarie,Small
+10403,30,40.23,2,1206.9,4/8/2005,Shipped,2,4,2005,Motorcycles,40,S32_2206,"UK Collectables, Ltd.",(171) 555-2282,Berkeley Gardens 12  Brewery,,Liverpool,,WX1 6LT,UK,EMEA,Devon,Elizabeth,Small
+10104,35,47.62,11,1666.7,1/31/2003,Shipped,1,1,2003,Trucks and Buses,54,S32_2509,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10114,28,55.73,2,1560.44,4/1/2003,Shipped,2,4,2003,Trucks and Buses,54,S32_2509,"La Corne D'abondance, Co.",(1) 42.34.2555,"265, boulevard Charonne",,Paris,,75012,France,EMEA,Bertrand,Marie,Small
+10127,45,51.95,13,2337.75,6/3/2003,Shipped,2,6,2003,Trucks and Buses,54,S32_2509,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,NA,Young,Jeff,Small
+10335,40,60.6,3,2424,11/19/2004,Shipped,4,11,2004,Trucks and Buses,54,S32_2509,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,NA,Nelson,Valarie,Small
+10349,33,46.53,1,1535.49,12/1/2004,Shipped,4,12,2004,Trucks and Buses,54,S32_2509,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,NA,Young,Jeff,Small
+10127,29,70.84,6,2054.36,6/3/2003,Shipped,2,6,2003,Trains,62,S32_3207,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,NA,Young,Jeff,Small
+10195,33,54.68,1,1804.44,11/25/2003,Shipped,4,11,2003,Trains,62,S32_3207,Mini Classics,9145554562,3758 North Pendale Street,,White Plains,NY,24067,USA,NA,Frick,Steve,Small
+10207,45,56.55,2,2544.75,12/9/2003,Shipped,4,12,2003,Trains,62,S32_3207,Diecast Collectables,6175552555,6251 Ingle Ln.,,Boston,MA,51003,USA,NA,Franco,Valarie,Small
+10371,30,99.55,11,2986.5,1/23/2005,Shipped,1,1,2005,Trains,62,S32_3207,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,NA,Nelson,Valarie,Small
+10413,24,49.71,6,1193.04,5/5/2005,Shipped,2,5,2005,Trains,62,S32_3207,Gift Depot Inc.,2035552570,25593 South Bay Ln.,,Bridgewater,CT,97562,USA,NA,King,Julie,Small
+10113,23,68.52,1,1575.96,3/26/2003,Shipped,1,3,2003,Trucks and Buses,64,S32_3522,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,NA,Nelson,Valarie,Small
+10140,28,60.76,7,1701.28,7/24/2003,Shipped,3,7,2003,Trucks and Buses,64,S32_3522,Technics Stores Inc.,6505556809,9408 Furth Circle,,Burlingame,CA,94217,USA,NA,Hirano,Juri,Small
+10183,49,64.64,4,3167.36,11/13/2003,Shipped,4,11,2003,Trucks and Buses,64,S32_3522,"Classic Gift Ideas, Inc",2155554695,782 First Street,,Philadelphia,PA,71270,USA,NA,Cervantes,Francisca,Medium
+10206,36,58.82,2,2117.52,12/5/2003,Shipped,4,12,2003,Trucks and Buses,64,S32_3522,Canadian Gift Exchange Network,(604) 555-3392,1900 Oak St.,,Vancouver,BC,V3F 2K1,Canada,NA,Tannamuri,Yoshi,Small
+10270,21,63.35,5,1330.35,7/19/2004,Shipped,3,7,2004,Trucks and Buses,64,S32_3522,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Small
+10313,34,56.24,10,1912.16,10/22/2004,Shipped,4,10,2004,Trucks and Buses,64,S32_3522,Canadian Gift Exchange Network,(604) 555-3392,1900 Oak St.,,Vancouver,BC,V3F 2K1,Canada,NA,Tannamuri,Yoshi,Small
+10324,48,100,4,8209.44,11/5/2004,Shipped,4,11,2004,Trucks and Buses,64,S32_3522,Vitachrome Inc.,2125551500,2678 Kingston Rd.,Suite 101,NYC,NY,10022,USA,NA,Frick,Michael,Large
+10370,25,100,3,3160.25,1/20/2005,Shipped,1,1,2005,Trucks and Buses,64,S32_3522,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Medium
+10120,29,72.23,11,2094.67,4/29/2003,Shipped,2,4,2003,Vintage Cars,68,S32_4289,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Small
+10223,20,66.04,12,1320.8,2/20/2004,Shipped,1,2,2004,Vintage Cars,68,S32_4289,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Small
+10353,40,44.51,7,1780.4,12/4/2004,Shipped,4,12,2004,Vintage Cars,68,S32_4289,Gift Ideas Corp.,2035554407,2440 Pompton St.,,Glendale,CT,97561,USA,NA,Lewis,Dan,Small
+10361,49,72.33,2,3544.17,12/17/2004,Shipped,4,12,2004,Vintage Cars,68,S32_4289,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Medium
+10401,62,77.73,6,4819.26,4/3/2005,On Hold,2,4,2005,Vintage Cars,68,S32_4289,Tekni Collectables Inc.,2015559350,7476 Moss Rd.,,Newark,NJ,94019,USA,NA,Brown,William,Medium
+10135,30,89.8,17,2694,7/2/2003,Shipped,3,7,2003,Motorcycles,102,S32_4485,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,NA,Nelson,Valarie,Small
+10145,27,100,4,3251.34,8/25/2003,Shipped,3,8,2003,Motorcycles,102,S32_4485,Toys4GrownUps.com,6265557265,78934 Hillside Dr.,,Pasadena,CA,90003,USA,NA,Young,Julie,Medium
+10159,23,100,12,2347.15,10/10/2003,Shipped,4,10,2003,Motorcycles,102,S32_4485,Corporate Gift Ideas Co.,6505551386,7734 Strong St.,,San Francisco,CA,,USA,NA,Brown,Julie,Small
+10169,34,100,12,3920.88,11/4/2003,Shipped,4,11,2003,Motorcycles,102,S32_4485,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Medium
+10237,27,100,5,3113.64,4/5/2004,Shipped,2,4,2004,Motorcycles,102,S32_4485,Vitachrome Inc.,2125551500,2678 Kingston Rd.,Suite 101,NYC,NY,10022,USA,NA,Frick,Michael,Medium
+10319,22,100,8,2626.8,11/3/2004,Shipped,4,11,2004,Motorcycles,102,S32_4485,Microscale Inc.,2125551957,5290 North Pendale Street,Suite 200,NYC,NY,10022,USA,NA,Kuo,Kee,Small
+10365,22,100,3,3425.18,1/7/2005,Shipped,1,1,2005,Motorcycles,102,S32_4485,Mini Creations Ltd.,5085559555,4575 Hillside Dr.,,New Bedford,MA,50553,USA,NA,Tam,Wing C,Medium
+10390,45,48.98,12,2204.1,3/4/2005,Shipped,1,3,2005,Motorcycles,102,S32_4485,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,NA,Nelson,Valarie,Small
+10403,45,100,5,5189.4,4/8/2005,Shipped,2,4,2005,Motorcycles,102,S32_4485,"UK Collectables, Ltd.",(171) 555-2282,Berkeley Gardens 12  Brewery,,Liverpool,,WX1 6LT,UK,EMEA,Devon,Elizabeth,Medium
+10106,39,40.15,6,1565.85,2/17/2003,Shipped,1,2,2003,Vintage Cars,43,S50_1341,Rovelli Gifts,035-640555,Via Ludovico il Moro 22,,Bergamo,,24100,Italy,EMEA,Rovelli,Giovanni,Small
+10120,49,50.62,12,2480.38,4/29/2003,Shipped,2,4,2003,Vintage Cars,43,S50_1341,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Small
+10168,48,51.93,13,2492.64,10/28/2003,Shipped,4,10,2003,Vintage Cars,43,S50_1341,Technics Stores Inc.,6505556809,9408 Furth Circle,,Burlingame,CA,94217,USA,NA,Hirano,Juri,Small
+10199,29,38.4,1,1113.6,12/1/2003,Shipped,4,12,2003,Vintage Cars,43,S50_1341,West Coast Collectables Co.,3105553722,3675 Furth Circle,,Burbank,CA,94019,USA,NA,Thompson,Steve,Small
+10210,43,41.02,11,1763.86,1/12/2004,Shipped,1,1,2004,Vintage Cars,43,S50_1341,Osaka Souveniers Co.,+81 06 6342 5555,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",,Osaka,Osaka,530-0003,Japan,Japan,Kentary,Mory,Small
+10223,41,46.26,13,1896.66,2/20/2004,Shipped,1,2,2004,Vintage Cars,43,S50_1341,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Small
+10308,47,43.64,11,2051.08,10/15/2004,Shipped,4,10,2004,Vintage Cars,43,S50_1341,Mini Classics,9145554562,3758 North Pendale Street,,White Plains,NY,24067,USA,NA,Frick,Steve,Small
+10316,34,47.57,3,1617.38,11/1/2004,Shipped,4,11,2004,Vintage Cars,43,S50_1341,giftsbymail.co.uk,(198) 555-8888,Garden House Crowther Way,,Cowes,Isle of Wight,PO31 7PJ,UK,EMEA,Bennett,Helen,Small
+10353,40,82.21,8,3288.4,12/4/2004,Shipped,4,12,2004,Vintage Cars,43,S50_1341,Gift Ideas Corp.,2035554407,2440 Pompton St.,,Glendale,CT,97561,USA,NA,Lewis,Dan,Medium
+10361,33,82.59,3,2725.47,12/17/2004,Shipped,4,12,2004,Vintage Cars,43,S50_1341,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Small
+10401,56,35.35,7,1979.6,4/3/2005,On Hold,2,4,2005,Vintage Cars,43,S50_1341,Tekni Collectables Inc.,2015559350,7476 Moss Rd.,,Newark,NJ,94019,USA,NA,Brown,William,Small
+10416,37,51.93,8,1921.41,5/10/2005,Shipped,2,5,2005,Vintage Cars,43,S50_1341,L'ordine Souveniers,0522-556555,Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA,Moroni,Maurizio,Small
+10104,33,100,7,3705.24,1/31/2003,Shipped,1,1,2003,Trucks and Buses,115,S50_1392,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10115,27,100,3,2843.91,4/4/2003,Shipped,2,4,2003,Trucks and Buses,115,S50_1392,Classic Legends Inc.,2125558493,5905 Pompton St.,Suite 750,NYC,NY,10022,USA,NA,Hernandez,Maria,Small
+10127,46,100,9,6176.42,6/3/2003,Shipped,2,6,2003,Trucks and Buses,115,S50_1392,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,NA,Young,Jeff,Medium
+10259,29,100,2,3054.57,6/15/2004,Shipped,2,6,2004,Trucks and Buses,115,S50_1392,Handji Gifts& Co,+65 224 1555,Village Close - 106 Linden Road Sandown,2nd Floor,Singapore,,69045,Singapore,APAC,Victorino,Wendy,Medium
+10371,48,56.55,10,2714.4,1/23/2005,Shipped,1,1,2005,Trucks and Buses,115,S50_1392,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,NA,Nelson,Valarie,Small
+10383,29,100,13,3087.05,2/22/2005,Shipped,1,2,2005,Trucks and Buses,115,S50_1392,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10395,46,100,4,5692.96,3/17/2005,Shipped,1,3,2005,Trucks and Buses,115,S50_1392,Lyon Souveniers,+33 1 46 62 7555,27 rue du Colonel Pierre Avia,,Paris,,75508,France,EMEA,Da Cunha,Daniel,Medium
+10412,26,100,3,3460.86,5/3/2005,Shipped,2,5,2005,Trucks and Buses,115,S50_1392,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
+10425,18,100,2,1895.94,5/31/2005,In Process,2,5,2005,Trucks and Buses,115,S50_1392,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Small
+10104,32,53.31,2,1705.92,1/31/2003,Shipped,1,1,2003,Trains,58,S50_1514,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
+10117,21,49.21,11,1033.41,4/16/2003,Shipped,2,4,2003,Trains,58,S50_1514,"Dragon Souveniers, Ltd.",+65 221 7555,"Bronz Sok., Bronz Apt. 3/6 Tesvikiye",,Singapore,,79903,Singapore,Japan,Natividad,Eric,Small
+10127,46,69.12,4,3179.52,6/3/2003,Shipped,2,6,2003,Trains,58,S50_1514,Muscle Machine Inc,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,NA,Young,Jeff,Medium
+10185,20,48.62,15,972.4,11/14/2003,Shipped,4,11,2003,Trains,58,S50_1514,Mini Creations Ltd.,5085559555,4575 Hillside Dr.,,New Bedford,MA,50553,USA,NA,Tam,Wing C,Small
+10196,46,62.09,7,2856.14,11/26/2003,Shipped,4,11,2003,Trains,58,S50_1514,Super Scale Inc.,2035559545,567 North Pendale Street,,New Haven,CT,97823,USA,NA,Murphy,Leslie,Small
+10337,21,100,6,2296.77,11/21/2004,Shipped,4,11,2004,Trains,58,S50_1514,Classic Legends Inc.,2125558493,5905 Pompton St.,Suite 750,NYC,NY,10022,USA,NA,Hernandez,Maria,Small
+10413,51,63.85,4,3256.35,5/5/2005,Shipped,2,5,2005,Trains,58,S50_1514,Gift Depot Inc.,2035552570,25593 South Bay Ln.,,Bridgewater,CT,97562,USA,NA,King,Julie,Medium
+10135,44,96,15,4224,7/2/2003,Shipped,3,7,2003,Motorcycles,81,S50_4713,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,NA,Nelson,Valarie,Medium
+10145,38,81.36,2,3091.68,8/25/2003,Shipped,3,8,2003,Motorcycles,81,S50_4713,Toys4GrownUps.com,6265557265,78934 Hillside Dr.,,Pasadena,CA,90003,USA,NA,Young,Julie,Medium
+10159,31,71.6,10,2219.6,10/10/2003,Shipped,4,10,2003,Motorcycles,81,S50_4713,Corporate Gift Ideas Co.,6505551386,7734 Strong St.,,San Francisco,CA,,USA,NA,Brown,Julie,Small
+10169,48,80.55,10,3866.4,11/4/2003,Shipped,4,11,2003,Motorcycles,81,S50_4713,"Anna's Decorations, Ltd",02 9936 8555,201 Miller Street,Level 15,North Sydney,NSW,2060,Australia,APAC,O'Hara,Anna,Medium
+10237,20,68.34,3,1366.8,4/5/2004,Shipped,2,4,2004,Motorcycles,81,S50_4713,Vitachrome Inc.,2125551500,2678 Kingston Rd.,Suite 101,NYC,NY,10022,USA,NA,Frick,Michael,Small
+10319,45,77.29,6,3478.05,11/3/2004,Shipped,4,11,2004,Motorcycles,81,S50_4713,Microscale Inc.,2125551957,5290 North Pendale Street,Suite 200,NYC,NY,10022,USA,NA,Kuo,Kee,Medium
+10365,44,100,2,4984.32,1/7/2005,Shipped,1,1,2005,Motorcycles,81,S50_4713,Mini Creations Ltd.,5085559555,4575 Hillside Dr.,,New Bedford,MA,50553,USA,NA,Tam,Wing C,Medium
+10390,22,100,13,3491.18,3/4/2005,Shipped,1,3,2005,Motorcycles,81,S50_4713,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,NA,Nelson,Valarie,Medium
+10142,41,64,2,2624,8/8/2003,Shipped,3,8,2003,Ships,66,S700_1138,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,NA,Nelson,Valarie,Small
+10185,21,54,3,1134,11/14/2003,Shipped,4,11,2003,Ships,66,S700_1138,Mini Creations Ltd.,5085559555,4575 Hillside Dr.,,New Bedford,MA,50553,USA,NA,Tam,Wing C,Small
+10222,31,62.67,15,1942.77,2/19/2004,Shipped,1,2,2004,Ships,66,S700_1138,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,NA,Thompson,Valarie,Small
+10233,36,70.67,3,2544.12,3/29/2004,Shipped,1,3,2004,Ships,66,S700_1138,Tekni Collectables Inc.,2015559350,7476 Moss Rd.,,Newark,NJ,94019,USA,NA,Brown,William,Small
+10248,36,71.34,6,2568.24,5/7/2004,Cancelled,2,5,2004,Ships,66,S700_1138,Land of Toys Inc.,2125557818,897 Long Airport Avenue,,NYC,NY,10022,USA,NA,Yu,Kwai,Small
+10261,34,62,4,2108,6/17/2004,Shipped,2,6,2004,Ships,66,S700_1138,Quebec Home Shopping Network,(514) 555-8054,43 rue St. Laurent,,Montreal,Quebec,H1J 1C3,Canada,NA,Fresnisre,Jean,Small
+10283,45,78.67,9,3540.15,8/20/2004,Shipped,3,8,2004,Ships,66,S700_1138,"Royal Canadian Collectables, Ltd.",(604) 555-4555,23 Tsawassen Blvd.,,Tsawassen,BC,T2F 8M4,Canada,NA,Lincoln,Elizabeth,Medium
+10295,26,75.34,4,1958.84,9/10/2004,Shipped,3,9,2004,Ships,66,S700_1138,Gifts4AllAges.com,6175559555,8616 Spinnaker Dr.,,Boston,MA,51003,USA,NA,Yoshido,Juri,Small
+10339,22,100,5,2816.44,11/23/2004,Shipped,4,11,2004,Ships,66,S700_1138,"Tokyo Collectables, Ltd",+81 3 3584 0555,2-2-8 Roppongi,,Minato-ku,Tokyo,106-0032,Japan,Japan,Shimamura,Akiko,Small
+10385,25,77.34,1,1933.5,2/28/2005,Shipped,1,2,2005,Ships,66,S700_1138,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,NA,Nelson,Valarie,Small
+10396,39,66.67,1,2600.13,3/23/2005,Shipped,1,3,2005,Ships,66,S700_1138,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,NA,Nelson,Valarie,Small
+10414,37,71.34,6,2639.58,5/6/2005,On Hold,2,5,2005,Ships,66,S700_1138,Gifts4AllAges.com,6175559555,8616 Spinnaker Dr.,,Boston,MA,51003,USA,NA,Yoshido,Juri,Small
+10106,31,100,7,3312.97,2/17/2003,Shipped,1,2,2003,Planes,91,S700_1691,Rovelli Gifts,035-640555,Via Ludovico il Moro 22,,Bergamo,,24100,Italy,EMEA,Rovelli,Giovanni,Medium
+10120,47,82.21,13,3863.87,4/29/2003,Shipped,2,4,2003,Planes,91,S700_1691,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Medium
+10168,28,98.65,14,2762.2,10/28/2003,Shipped,4,10,2003,Planes,91,S700_1691,Technics Stores Inc.,6505556809,9408 Furth Circle,,Burlingame,CA,94217,USA,NA,Hirano,Juri,Small
+10199,48,83.12,2,3989.76,12/1/2003,Shipped,4,12,2003,Planes,91,S700_1691,West Coast Collectables Co.,3105553722,3675 Furth Circle,,Burbank,CA,94019,USA,NA,Thompson,Steve,Medium
+10210,21,78.55,12,1649.55,1/12/2004,Shipped,1,1,2004,Planes,91,S700_1691,Osaka Souveniers Co.,+81 06 6342 5555,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",,Osaka,Osaka,530-0003,Japan,Japan,Kentary,Mory,Small
+10223,25,100,14,2534.75,2/20/2004,Shipped,1,2,2004,Planes,91,S700_1691,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Small
+10308,21,100,12,2224.95,10/15/2004,Shipped,4,10,2004,Planes,91,S700_1691,Mini Classics,9145554562,3758 North Pendale Street,,White Plains,NY,24067,USA,NA,Frick,Steve,Small
+10316,34,82.21,4,2795.14,11/1/2004,Shipped,4,11,2004,Planes,91,S700_1691,giftsbymail.co.uk,(198) 555-8888,Garden House Crowther Way,,Cowes,Isle of Wight,PO31 7PJ,UK,EMEA,Bennett,Helen,Small
+10353,39,100,9,5043.87,12/4/2004,Shipped,4,12,2004,Planes,91,S700_1691,Gift Ideas Corp.,2035554407,2440 Pompton St.,,Glendale,CT,97561,USA,NA,Lewis,Dan,Medium
+10361,20,60.54,4,1210.8,12/17/2004,Shipped,4,12,2004,Planes,91,S700_1691,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Small
+10401,11,100,8,1135.31,4/3/2005,On Hold,2,4,2005,Planes,91,S700_1691,Tekni Collectables Inc.,2015559350,7476 Moss Rd.,,Newark,NJ,94019,USA,NA,Brown,William,Small
+10142,43,84.01,9,3612.43,8/8/2003,Shipped,3,8,2003,Ships,86,S700_1938,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,NA,Nelson,Valarie,Medium
+10166,29,100,3,3013.97,10/21/2003,Shipped,4,10,2003,Ships,86,S700_1938,FunGiftIdeas.com,5085552555,1785 First Street,,New Bedford,MA,50553,USA,NA,Benitez,Violeta,Medium
+10185,30,94.4,10,2832,11/14/2003,Shipped,4,11,2003,Ships,86,S700_1938,Mini Creations Ltd.,5085559555,4575 Hillside Dr.,,New Bedford,MA,50553,USA,NA,Tam,Wing C,Small
+10196,50,94.4,2,4720,11/26/2003,Shipped,4,11,2003,Ships,86,S700_1938,Super Scale Inc.,2035559545,567 North Pendale Street,,New Haven,CT,97823,USA,NA,Murphy,Leslie,Medium
+10232,26,88.34,7,2296.84,3/20/2004,Shipped,1,3,2004,Ships,86,S700_1938,giftsbymail.co.uk,(198) 555-8888,Garden House Crowther Way,,Cowes,Isle of Wight,PO31 7PJ,UK,EMEA,Bennett,Helen,Small
+10248,40,100,13,4157.2,5/7/2004,Cancelled,2,5,2004,Ships,86,S700_1938,Land of Toys Inc.,2125557818,897 Long Airport Avenue,,NYC,NY,10022,USA,NA,Yu,Kwai,Medium
+10282,43,86.61,2,3724.23,8/20/2004,Shipped,3,8,2004,Ships,86,S700_1938,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,NA,Nelson,Valarie,Medium
+10293,29,71.89,5,2084.81,9/9/2004,Shipped,3,9,2004,Ships,86,S700_1938,Amica Models & Co.,011-4988555,Via Monte Bianco 34,,Torino,,10100,Italy,EMEA,Accorti,Paolo,Small
+10306,38,91.81,10,3488.78,10/14/2004,Shipped,4,10,2004,Ships,86,S700_1938,"AV Stores, Co.",(171) 555-1555,Fauntleroy Circus,,Manchester,,EC2 5NT,UK,EMEA,Ashworth,Victoria,Medium
+10314,23,76.22,2,1753.06,10/22/2004,Shipped,4,10,2004,Ships,86,S700_1938,Heintze Collectables,86 21 3555,Smagsloget 45,,Aaarhus,,8200,Denmark,EMEA,Ibsen,Palle,Small
+10327,20,100,7,3469.2,11/10/2004,Resolved,4,11,2004,Ships,86,S700_1938,Danish Wholesale Imports,31 12 3555,Vinb'ltet 34,,Kobenhavn,,1734,Denmark,EMEA,Petersen,Jytte,Medium
+10337,36,70.3,9,2530.8,11/21/2004,Shipped,4,11,2004,Ships,86,S700_1938,Classic Legends Inc.,2125558493,5905 Pompton St.,Suite 750,NYC,NY,10022,USA,NA,Hernandez,Maria,Small
+10414,34,100,13,3533.62,5/6/2005,On Hold,2,5,2005,Ships,86,S700_1938,Gifts4AllAges.com,6175559555,8616 Spinnaker Dr.,,Boston,MA,51003,USA,NA,Yoshido,Juri,Medium
+10131,22,85.99,8,1891.78,6/16/2003,Shipped,2,6,2003,Ships,90,S700_2047,Gift Ideas Corp.,2035554407,2440 Pompton St.,,Glendale,CT,97561,USA,NA,Lewis,Dan,Small
+10143,26,100,11,2612.48,8/10/2003,Shipped,3,8,2003,Ships,90,S700_2047,Mini Creations Ltd.,5085559555,4575 Hillside Dr.,,New Bedford,MA,50553,USA,NA,Tam,Wing C,Small
+10222,26,100,8,2659.54,2/19/2004,Shipped,1,2,2004,Ships,90,S700_2047,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,NA,Thompson,Valarie,Small
+10249,40,95.95,4,3838,5/8/2004,Shipped,2,5,2004,Ships,90,S700_2047,Cambridge Collectables Co.,6175555555,4658 Baden Av.,,Cambridge,MA,51247,USA,NA,Tseng,Kyung,Medium
+10274,24,90.52,5,2172.48,7/21/2004,Shipped,3,7,2004,Ships,90,S700_2047,Collectables For Less Inc.,6175558555,7825 Douglas Av.,,Brickhaven,MA,58339,USA,NA,Nelson,Allen,Small
+10283,20,94.14,2,1882.8,8/20/2004,Shipped,3,8,2004,Ships,90,S700_2047,"Royal Canadian Collectables, Ltd.",(604) 555-4555,23 Tsawassen Blvd.,,Tsawassen,BC,T2F 8M4,Canada,NA,Lincoln,Elizabeth,Small
+10307,34,97.76,5,3323.84,10/14/2004,Shipped,4,10,2004,Ships,90,S700_2047,"Classic Gift Ideas, Inc",2155554695,782 First Street,,Philadelphia,PA,71270,USA,NA,Cervantes,Francisca,Medium
+10316,45,93.24,13,4195.8,11/1/2004,Shipped,4,11,2004,Ships,90,S700_2047,giftsbymail.co.uk,(198) 555-8888,Garden House Crowther Way,,Cowes,Isle of Wight,PO31 7PJ,UK,EMEA,Bennett,Helen,Medium
+10339,55,71.25,15,3918.75,11/23/2004,Shipped,4,11,2004,Ships,90,S700_2047,"Tokyo Collectables, Ltd",+81 3 3584 0555,2-2-8 Roppongi,,Minato-ku,Tokyo,106-0032,Japan,Japan,Shimamura,Akiko,Medium
+10352,23,100,3,2352.67,12/3/2004,Shipped,4,12,2004,Ships,90,S700_2047,Auto-Moto Classics Inc.,6175558428,16780 Pompton St.,,Brickhaven,MA,58339,USA,NA,Taylor,Leslie,Small
+10361,24,45.39,14,1089.36,12/17/2004,Shipped,4,12,2004,Ships,90,S700_2047,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Small
+10120,24,100,15,2584.8,4/29/2003,Shipped,2,4,2003,Planes,99,S700_2466,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Small
+10168,31,100,16,3431.39,10/28/2003,Shipped,4,10,2003,Planes,99,S700_2466,Technics Stores Inc.,6505556809,9408 Furth Circle,,Burlingame,CA,94217,USA,NA,Hirano,Juri,Medium
+10210,26,99.72,14,2592.72,1/12/2004,Shipped,1,1,2004,Planes,99,S700_2466,Osaka Souveniers Co.,+81 06 6342 5555,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",,Osaka,Osaka,530-0003,Japan,Japan,Kentary,Mory,Small
+10222,37,87.75,1,3246.75,2/19/2004,Shipped,1,2,2004,Planes,99,S700_2466,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,NA,Thompson,Valarie,Medium
+10235,38,88.75,10,3372.5,4/2/2004,Shipped,2,4,2004,Planes,99,S700_2466,"Royal Canadian Collectables, Ltd.",(604) 555-4555,23 Tsawassen Blvd.,,Tsawassen,BC,T2F 8M4,Canada,NA,Lincoln,Elizabeth,Medium
+10250,35,100,11,3909.15,5/11/2004,Shipped,2,5,2004,Planes,99,S700_2466,The Sharp Gifts Warehouse,4085553659,3086 Ingle Ln.,,San Jose,CA,94217,USA,NA,Frick,Sue,Medium
+10308,35,88.75,14,3106.25,10/15/2004,Shipped,4,10,2004,Planes,99,S700_2466,Mini Classics,9145554562,3758 North Pendale Street,,White Plains,NY,24067,USA,NA,Frick,Steve,Medium
+10316,23,100,6,2706.41,11/1/2004,Shipped,4,11,2004,Planes,99,S700_2466,giftsbymail.co.uk,(198) 555-8888,Garden House Crowther Way,,Cowes,Isle of Wight,PO31 7PJ,UK,EMEA,Bennett,Helen,Small
+10352,49,100,2,4935.28,12/3/2004,Shipped,4,12,2004,Planes,99,S700_2466,Auto-Moto Classics Inc.,6175558428,16780 Pompton St.,,Brickhaven,MA,58339,USA,NA,Taylor,Leslie,Medium
+10361,26,100,9,2754.7,12/17/2004,Shipped,4,12,2004,Planes,99,S700_2466,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Small
+10143,31,85.29,16,2643.99,8/10/2003,Shipped,3,8,2003,Ships,72,S700_2610,Mini Creations Ltd.,5085559555,4575 Hillside Dr.,,New Bedford,MA,50553,USA,NA,Tam,Wing C,Small
+10154,36,64.33,1,2315.88,10/2/2003,Shipped,4,10,2003,Ships,72,S700_2610,Boards & Toys Co.,3105552373,4097 Douglas Av.,,Glendale,CA,92561,USA,NA,Young,Leslie,Small
+10185,39,57.82,1,2254.98,11/14/2003,Shipped,4,11,2003,Ships,72,S700_2610,Mini Creations Ltd.,5085559555,4575 Hillside Dr.,,New Bedford,MA,50553,USA,NA,Tam,Wing C,Small
+10222,36,80.95,13,2914.2,2/19/2004,Shipped,1,2,2004,Ships,72,S700_2610,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,NA,Thompson,Valarie,Small
+10233,29,82.4,1,2389.6,3/29/2004,Shipped,1,3,2004,Ships,72,S700_2610,Tekni Collectables Inc.,2015559350,7476 Moss Rd.,,Newark,NJ,94019,USA,NA,Brown,William,Small
+10248,32,75.89,4,2428.48,5/7/2004,Cancelled,2,5,2004,Ships,72,S700_2610,Land of Toys Inc.,2125557818,897 Long Airport Avenue,,NYC,NY,10022,USA,NA,Yu,Kwai,Small
+10261,44,68.67,2,3021.48,6/17/2004,Shipped,2,6,2004,Ships,72,S700_2610,Quebec Home Shopping Network,(514) 555-8054,43 rue St. Laurent,,Montreal,Quebec,H1J 1C3,Canada,NA,Fresnisre,Jean,Medium
+10283,47,65.77,7,3091.19,8/20/2004,Shipped,3,8,2004,Ships,72,S700_2610,"Royal Canadian Collectables, Ltd.",(604) 555-4555,23 Tsawassen Blvd.,,Tsawassen,BC,T2F 8M4,Canada,NA,Lincoln,Elizabeth,Medium
+10295,44,58.55,2,2576.2,9/10/2004,Shipped,3,9,2004,Ships,72,S700_2610,Gifts4AllAges.com,6175559555,8616 Spinnaker Dr.,,Boston,MA,51003,USA,NA,Yoshido,Juri,Small
+10316,48,74.45,18,3573.6,11/1/2004,Shipped,4,11,2004,Ships,72,S700_2610,giftsbymail.co.uk,(198) 555-8888,Garden House Crowther Way,,Cowes,Isle of Wight,PO31 7PJ,UK,EMEA,Bennett,Helen,Medium
+10339,50,74.35,9,3717.5,11/23/2004,Shipped,4,11,2004,Ships,72,S700_2610,"Tokyo Collectables, Ltd",+81 3 3584 0555,2-2-8 Roppongi,,Minato-ku,Tokyo,106-0032,Japan,Japan,Shimamura,Akiko,Medium
+10414,31,75.89,4,2352.59,5/6/2005,On Hold,2,5,2005,Ships,72,S700_2610,Gifts4AllAges.com,6175559555,8616 Spinnaker Dr.,,Boston,MA,51003,USA,NA,Yoshido,Juri,Small
+10140,36,100,6,4114.8,7/24/2003,Shipped,3,7,2003,Classic Cars,101,S700_2824,Technics Stores Inc.,6505556809,9408 Furth Circle,,Burlingame,CA,94217,USA,NA,Hirano,Juri,Medium
+10183,23,86.99,3,2000.77,11/13/2003,Shipped,4,11,2003,Classic Cars,101,S700_2824,"Classic Gift Ideas, Inc",2155554695,782 First Street,,Philadelphia,PA,71270,USA,NA,Cervantes,Francisca,Small
+10206,33,100,1,3871.89,12/5/2003,Shipped,4,12,2003,Classic Cars,101,S700_2824,Canadian Gift Exchange Network,(604) 555-3392,1900 Oak St.,,Vancouver,BC,V3F 2K1,Canada,NA,Tannamuri,Yoshi,Medium
+10270,46,88,4,4048,7/19/2004,Shipped,3,7,2004,Classic Cars,101,S700_2824,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Medium
+10313,30,99.13,9,2973.9,10/22/2004,Shipped,4,10,2004,Classic Cars,101,S700_2824,Canadian Gift Exchange Network,(604) 555-3392,1900 Oak St.,,Vancouver,BC,V3F 2K1,Canada,NA,Tannamuri,Yoshi,Small
+10324,34,100,5,4248.3,11/5/2004,Shipped,4,11,2004,Classic Cars,101,S700_2824,Vitachrome Inc.,2125551500,2678 Kingston Rd.,Suite 101,NYC,NY,10022,USA,NA,Frick,Michael,Medium
+10120,24,100,7,3417.12,4/29/2003,Shipped,2,4,2003,Planes,118,S700_2834,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Medium
+10210,25,100,6,2818,1/12/2004,Shipped,1,1,2004,Planes,118,S700_2834,Osaka Souveniers Co.,+81 06 6342 5555,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",,Osaka,Osaka,530-0003,Japan,Japan,Kentary,Mory,Small
+10223,29,100,8,3199.86,2/20/2004,Shipped,1,2,2004,Planes,118,S700_2834,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Medium
+10285,45,100,13,5392.8,8/27/2004,Shipped,3,8,2004,Planes,118,S700_2834,Marta's Replicas Co.,6175558555,39323 Spinnaker Dr.,,Cambridge,MA,51247,USA,NA,Hernandez,Marta,Medium
+10353,48,68.8,4,3302.4,12/4/2004,Shipped,4,12,2004,Planes,118,S700_2834,Gift Ideas Corp.,2035554407,2440 Pompton St.,,Glendale,CT,97561,USA,NA,Lewis,Dan,Medium
+10361,44,72.42,5,3186.48,12/17/2004,Shipped,4,12,2004,Planes,118,S700_2834,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Medium
+10401,21,96.11,2,2018.31,4/3/2005,On Hold,2,4,2005,Planes,118,S700_2834,Tekni Collectables Inc.,2015559350,7476 Moss Rd.,,Newark,NJ,94019,USA,NA,Brown,William,Small
+10416,41,100,3,5642.83,5/10/2005,Shipped,2,5,2005,Planes,118,S700_2834,L'ordine Souveniers,0522-556555,Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA,Moroni,Maurizio,Medium
+10106,44,74.4,8,3273.6,2/17/2003,Shipped,1,2,2003,Planes,80,S700_3167,Rovelli Gifts,035-640555,Via Ludovico il Moro 22,,Bergamo,,24100,Italy,EMEA,Rovelli,Giovanni,Medium
+10120,43,76,14,3268,4/29/2003,Shipped,2,4,2003,Planes,80,S700_3167,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Medium
+10168,48,96,15,4608,10/28/2003,Shipped,4,10,2003,Planes,80,S700_3167,Technics Stores Inc.,6505556809,9408 Furth Circle,,Burlingame,CA,94217,USA,NA,Hirano,Juri,Medium
+10199,38,82.4,3,3131.2,12/1/2003,Shipped,4,12,2003,Planes,80,S700_3167,West Coast Collectables Co.,3105553722,3675 Furth Circle,,Burbank,CA,94019,USA,NA,Thompson,Steve,Medium
+10210,31,86.4,13,2678.4,1/12/2004,Shipped,1,1,2004,Planes,80,S700_3167,Osaka Souveniers Co.,+81 06 6342 5555,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",,Osaka,Osaka,530-0003,Japan,Japan,Kentary,Mory,Small
+10223,26,67.2,15,1747.2,2/20/2004,Shipped,1,2,2004,Planes,80,S700_3167,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Small
+10308,21,87.2,13,1831.2,10/15/2004,Shipped,4,10,2004,Planes,80,S700_3167,Mini Classics,9145554562,3758 North Pendale Street,,White Plains,NY,24067,USA,NA,Frick,Steve,Small
+10316,48,75.2,5,3609.6,11/1/2004,Shipped,4,11,2004,Planes,80,S700_3167,giftsbymail.co.uk,(198) 555-8888,Garden House Crowther Way,,Cowes,Isle of Wight,PO31 7PJ,UK,EMEA,Bennett,Helen,Medium
+10353,43,81.95,6,3523.85,12/4/2004,Shipped,4,12,2004,Planes,80,S700_3167,Gift Ideas Corp.,2035554407,2440 Pompton St.,,Glendale,CT,97561,USA,NA,Lewis,Dan,Medium
+10361,44,100,10,5001.92,12/17/2004,Shipped,4,12,2004,Planes,80,S700_3167,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Medium
+10142,21,100,3,2334.99,8/8/2003,Shipped,3,8,2003,Ships,100,S700_3505,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,NA,Nelson,Valarie,Small
+10185,37,100,4,3891.66,11/14/2003,Shipped,4,11,2003,Ships,100,S700_3505,Mini Creations Ltd.,5085559555,4575 Hillside Dr.,,New Bedford,MA,50553,USA,NA,Tam,Wing C,Medium
+10222,38,100,16,4187.22,2/19/2004,Shipped,1,2,2004,Ships,100,S700_3505,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,NA,Thompson,Valarie,Medium
+10232,48,96.16,1,4615.68,3/20/2004,Shipped,1,3,2004,Ships,100,S700_3505,giftsbymail.co.uk,(198) 555-8888,Garden House Crowther Way,,Cowes,Isle of Wight,PO31 7PJ,UK,EMEA,Bennett,Helen,Medium
+10248,30,100,7,3245.4,5/7/2004,Cancelled,2,5,2004,Ships,100,S700_3505,Land of Toys Inc.,2125557818,897 Long Airport Avenue,,NYC,NY,10022,USA,NA,Yu,Kwai,Medium
+10261,25,88.15,5,2203.75,6/17/2004,Shipped,2,6,2004,Ships,100,S700_3505,Quebec Home Shopping Network,(514) 555-8054,43 rue St. Laurent,,Montreal,Quebec,H1J 1C3,Canada,NA,Fresnisre,Jean,Small
+10283,22,88.15,10,1939.3,8/20/2004,Shipped,3,8,2004,Ships,100,S700_3505,"Royal Canadian Collectables, Ltd.",(604) 555-4555,23 Tsawassen Blvd.,,Tsawassen,BC,T2F 8M4,Canada,NA,Lincoln,Elizabeth,Small
+10295,34,100,5,3473.78,9/10/2004,Shipped,3,9,2004,Ships,100,S700_3505,Gifts4AllAges.com,6175559555,8616 Spinnaker Dr.,,Boston,MA,51003,USA,NA,Yoshido,Juri,Medium
+10306,32,90.15,4,2884.8,10/14/2004,Shipped,4,10,2004,Ships,100,S700_3505,"AV Stores, Co.",(171) 555-1555,Fauntleroy Circus,,Manchester,,EC2 5NT,UK,EMEA,Ashworth,Victoria,Small
+10315,31,86.15,3,2670.65,10/29/2004,Shipped,4,10,2004,Ships,100,S700_3505,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Small
+10327,43,80,2,3440,11/10/2004,Resolved,4,11,2004,Ships,100,S700_3505,Danish Wholesale Imports,31 12 3555,Vinb'ltet 34,,Kobenhavn,,1734,Denmark,EMEA,Petersen,Jytte,Medium
+10337,31,89.38,1,2770.78,11/21/2004,Shipped,4,11,2004,Ships,100,S700_3505,Classic Legends Inc.,2125558493,5905 Pompton St.,Suite 750,NYC,NY,10022,USA,NA,Hernandez,Maria,Small
+10142,38,85.41,4,3245.58,8/8/2003,Shipped,3,8,2003,Ships,99,S700_3962,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,NA,Nelson,Valarie,Medium
+10185,22,79.45,5,1747.9,11/14/2003,Shipped,4,11,2003,Ships,99,S700_3962,Mini Creations Ltd.,5085559555,4575 Hillside Dr.,,New Bedford,MA,50553,USA,NA,Tam,Wing C,Small
+10222,31,95.34,17,2955.54,2/19/2004,Shipped,1,2,2004,Ships,99,S700_3962,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,NA,Thompson,Valarie,Small
+10232,35,82.43,2,2885.05,3/20/2004,Shipped,1,3,2004,Ships,99,S700_3962,giftsbymail.co.uk,(198) 555-8888,Garden House Crowther Way,,Cowes,Isle of Wight,PO31 7PJ,UK,EMEA,Bennett,Helen,Small
+10248,35,90.37,8,3162.95,5/7/2004,Cancelled,2,5,2004,Ships,99,S700_3962,Land of Toys Inc.,2125557818,897 Long Airport Avenue,,NYC,NY,10022,USA,NA,Yu,Kwai,Medium
+10261,50,81.43,6,4071.5,6/17/2004,Shipped,2,6,2004,Ships,99,S700_3962,Quebec Home Shopping Network,(514) 555-8054,43 rue St. Laurent,,Montreal,Quebec,H1J 1C3,Canada,NA,Fresnisre,Jean,Medium
+10283,38,89.38,11,3396.44,8/20/2004,Shipped,3,8,2004,Ships,99,S700_3962,"Royal Canadian Collectables, Ltd.",(604) 555-4555,23 Tsawassen Blvd.,,Tsawassen,BC,T2F 8M4,Canada,NA,Lincoln,Elizabeth,Medium
+10294,45,100,1,4692.6,9/10/2004,Shipped,3,9,2004,Ships,99,S700_3962,Online Mini Collectables,6175557555,7635 Spinnaker Dr.,,Brickhaven,MA,58339,USA,NA,Barajas,Miguel,Medium
+10306,30,100,5,3515.7,10/14/2004,Shipped,4,10,2004,Ships,99,S700_3962,"AV Stores, Co.",(171) 555-1555,Fauntleroy Circus,,Manchester,,EC2 5NT,UK,EMEA,Ashworth,Victoria,Medium
+10315,37,91.37,4,3380.69,10/29/2004,Shipped,4,10,2004,Ships,99,S700_3962,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Medium
+10327,37,86.61,3,3204.57,11/10/2004,Resolved,4,11,2004,Ships,99,S700_3962,Danish Wholesale Imports,31 12 3555,Vinb'ltet 34,,Kobenhavn,,1734,Denmark,EMEA,Petersen,Jytte,Medium
+10337,36,71.89,7,2588.04,11/21/2004,Shipped,4,11,2004,Ships,99,S700_3962,Classic Legends Inc.,2125558493,5905 Pompton St.,Suite 750,NYC,NY,10022,USA,NA,Hernandez,Maria,Small
+10131,26,85.13,2,2213.38,6/16/2003,Shipped,2,6,2003,Planes,74,S700_4002,Gift Ideas Corp.,2035554407,2440 Pompton St.,,Glendale,CT,97561,USA,NA,Lewis,Dan,Small
+10143,34,85.87,5,2919.58,8/10/2003,Shipped,3,8,2003,Planes,74,S700_4002,Mini Creations Ltd.,5085559555,4575 Hillside Dr.,,New Bedford,MA,50553,USA,NA,Tam,Wing C,Small
+10168,39,82.91,17,3233.49,10/28/2003,Shipped,4,10,2003,Planes,74,S700_4002,Technics Stores Inc.,6505556809,9408 Furth Circle,,Burlingame,CA,94217,USA,NA,Hirano,Juri,Medium
+10210,42,70.33,15,2953.86,1/12/2004,Shipped,1,1,2004,Planes,74,S700_4002,Osaka Souveniers Co.,+81 06 6342 5555,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",,Osaka,Osaka,530-0003,Japan,Japan,Kentary,Mory,Small
+10222,43,74.03,2,3183.29,2/19/2004,Shipped,1,2,2004,Planes,74,S700_4002,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,NA,Thompson,Valarie,Medium
+10235,34,72.55,11,2466.7,4/2/2004,Shipped,2,4,2004,Planes,74,S700_4002,"Royal Canadian Collectables, Ltd.",(604) 555-4555,23 Tsawassen Blvd.,,Tsawassen,BC,T2F 8M4,Canada,NA,Lincoln,Elizabeth,Small
+10250,38,62.19,12,2363.22,5/11/2004,Shipped,2,5,2004,Planes,74,S700_4002,The Sharp Gifts Warehouse,4085553659,3086 Ingle Ln.,,San Jose,CA,94217,USA,NA,Frick,Sue,Small
+10308,39,68.11,15,2656.29,10/15/2004,Shipped,4,10,2004,Planes,74,S700_4002,Mini Classics,9145554562,3758 North Pendale Street,,White Plains,NY,24067,USA,NA,Frick,Steve,Small
+10316,44,62.19,7,2736.36,11/1/2004,Shipped,4,11,2004,Planes,74,S700_4002,giftsbymail.co.uk,(198) 555-8888,Garden House Crowther Way,,Cowes,Isle of Wight,PO31 7PJ,UK,EMEA,Bennett,Helen,Small
+10339,50,57.86,8,2893,11/23/2004,Shipped,4,11,2004,Planes,74,S700_4002,"Tokyo Collectables, Ltd",+81 3 3584 0555,2-2-8 Roppongi,,Minato-ku,Tokyo,106-0032,Japan,Japan,Shimamura,Akiko,Small
+10352,22,75.51,1,1661.22,12/3/2004,Shipped,4,12,2004,Planes,74,S700_4002,Auto-Moto Classics Inc.,6175558428,16780 Pompton St.,,Brickhaven,MA,58339,USA,NA,Taylor,Leslie,Small
+10361,35,100,11,4277.35,12/17/2004,Shipped,4,12,2004,Planes,74,S700_4002,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Medium
+10131,21,41.71,7,875.91,6/16/2003,Shipped,2,6,2003,Planes,49,S72_1253,Gift Ideas Corp.,2035554407,2440 Pompton St.,,Glendale,CT,97561,USA,NA,Lewis,Dan,Small
+10143,37,50.65,10,1874.05,8/10/2003,Shipped,3,8,2003,Planes,49,S72_1253,Mini Creations Ltd.,5085559555,4575 Hillside Dr.,,New Bedford,MA,50553,USA,NA,Tam,Wing C,Small
+10222,31,45.69,7,1416.39,2/19/2004,Shipped,1,2,2004,Planes,49,S72_1253,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,NA,Thompson,Valarie,Small
+10249,32,57.61,3,1843.52,5/8/2004,Shipped,2,5,2004,Planes,49,S72_1253,Cambridge Collectables Co.,6175555555,4658 Baden Av.,,Cambridge,MA,51247,USA,NA,Tseng,Kyung,Small
+10274,32,58.6,4,1875.2,7/21/2004,Shipped,3,7,2004,Planes,49,S72_1253,Collectables For Less Inc.,6175558555,7825 Douglas Av.,,Brickhaven,MA,58339,USA,NA,Nelson,Allen,Small
+10283,43,57.61,1,2477.23,8/20/2004,Shipped,3,8,2004,Planes,49,S72_1253,"Royal Canadian Collectables, Ltd.",(604) 555-4555,23 Tsawassen Blvd.,,Tsawassen,BC,T2F 8M4,Canada,NA,Lincoln,Elizabeth,Small
+10307,34,53.63,4,1823.42,10/14/2004,Shipped,4,10,2004,Planes,49,S72_1253,"Classic Gift Ideas, Inc",2155554695,782 First Street,,Philadelphia,PA,71270,USA,NA,Cervantes,Francisca,Small
+10316,34,43.7,12,1485.8,11/1/2004,Shipped,4,11,2004,Planes,49,S72_1253,giftsbymail.co.uk,(198) 555-8888,Garden House Crowther Way,,Cowes,Isle of Wight,PO31 7PJ,UK,EMEA,Bennett,Helen,Small
+10329,44,86.13,8,3789.72,11/15/2004,Shipped,4,11,2004,Planes,49,S72_1253,Land of Toys Inc.,2125557818,897 Long Airport Avenue,,NYC,NY,10022,USA,NA,Yu,Kwai,Medium
+10339,27,76.31,6,2060.37,11/23/2004,Shipped,4,11,2004,Planes,49,S72_1253,"Tokyo Collectables, Ltd",+81 3 3584 0555,2-2-8 Roppongi,,Minato-ku,Tokyo,106-0032,Japan,Japan,Shimamura,Akiko,Small
+10352,49,52.64,4,2579.36,12/3/2004,Shipped,4,12,2004,Planes,49,S72_1253,Auto-Moto Classics Inc.,6175558428,16780 Pompton St.,,Brickhaven,MA,58339,USA,NA,Taylor,Leslie,Small
+10361,23,95.2,12,2189.6,12/17/2004,Shipped,4,12,2004,Planes,49,S72_1253,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Small
+10142,39,44.23,5,1724.97,8/8/2003,Shipped,3,8,2003,Ships,54,S72_3212,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,NA,Nelson,Valarie,Small
+10185,28,64.43,6,1804.04,11/14/2003,Shipped,4,11,2003,Ships,54,S72_3212,Mini Creations Ltd.,5085559555,4575 Hillside Dr.,,New Bedford,MA,50553,USA,NA,Tam,Wing C,Small
+10222,36,63.34,18,2280.24,2/19/2004,Shipped,1,2,2004,Ships,54,S72_3212,Collectable Mini Designs Co.,7605558146,361 Furth Circle,,San Diego,CA,91217,USA,NA,Thompson,Valarie,Small
+10232,24,49.69,3,1192.56,3/20/2004,Shipped,1,3,2004,Ships,54,S72_3212,giftsbymail.co.uk,(198) 555-8888,Garden House Crowther Way,,Cowes,Isle of Wight,PO31 7PJ,UK,EMEA,Bennett,Helen,Small
+10248,23,65.52,9,1506.96,5/7/2004,Cancelled,2,5,2004,Ships,54,S72_3212,Land of Toys Inc.,2125557818,897 Long Airport Avenue,,NYC,NY,10022,USA,NA,Yu,Kwai,Small
+10261,29,50.78,7,1472.62,6/17/2004,Shipped,2,6,2004,Ships,54,S72_3212,Quebec Home Shopping Network,(514) 555-8054,43 rue St. Laurent,,Montreal,Quebec,H1J 1C3,Canada,NA,Fresnisre,Jean,Small
+10283,33,51.32,12,1693.56,8/20/2004,Shipped,3,8,2004,Ships,54,S72_3212,"Royal Canadian Collectables, Ltd.",(604) 555-4555,23 Tsawassen Blvd.,,Tsawassen,BC,T2F 8M4,Canada,NA,Lincoln,Elizabeth,Small
+10293,32,60.06,1,1921.92,9/9/2004,Shipped,3,9,2004,Ships,54,S72_3212,Amica Models & Co.,011-4988555,Via Monte Bianco 34,,Torino,,10100,Italy,EMEA,Accorti,Paolo,Small
+10306,35,59.51,6,2082.85,10/14/2004,Shipped,4,10,2004,Ships,54,S72_3212,"AV Stores, Co.",(171) 555-1555,Fauntleroy Circus,,Manchester,,EC2 5NT,UK,EMEA,Ashworth,Victoria,Small
+10315,40,55.69,5,2227.6,10/29/2004,Shipped,4,10,2004,Ships,54,S72_3212,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Small
+10327,37,86.74,4,3209.38,11/10/2004,Resolved,4,11,2004,Ships,54,S72_3212,Danish Wholesale Imports,31 12 3555,Vinb'ltet 34,,Kobenhavn,,1734,Denmark,EMEA,Petersen,Jytte,Medium
+10337,42,97.16,5,4080.72,11/21/2004,Shipped,4,11,2004,Ships,54,S72_3212,Classic Legends Inc.,2125558493,5905 Pompton St.,Suite 750,NYC,NY,10022,USA,NA,Hernandez,Maria,Medium
